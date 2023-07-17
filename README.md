@@ -13,23 +13,23 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name="todo"></a> [2022 TPAMI] Class-incremental learning survey and performance evaluation on image classification [[paper](https://arxiv.org/abs/2010.15277)]
 
-- <a name='todo'></a> [2022 NMI] Biological underpinnings for lifelong learning machines [[paper]()]
+- <a name='todo'></a> [2022 NMI] Biological underpinnings for lifelong learning machines [[paper](https://www.nature.com/articles/s42256-022-00452-0)]
 
-- <a name='todo'></a> [2022 Neurocomputing] Online Continual Learning in Image Classification_ An Empirical Survey [[paper]()]
+- <a name='todo'></a> [2022 Neurocomputing] Online Continual Learning in Image Classification_ An Empirical Survey [[paper](https://arxiv.org/abs/2101.10423)]
 
-- <a name='todo'></a> [2022 JAIR] Towards Continual Reinforcement Learning [[paper]()]
+- <a name='todo'></a> [2022 JAIR] Towards Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2012.13490)]
 
-- <a name='todo'></a> [2021] Recent Advances of Continual Learning in Computer Vision_ An Overview [[paper]()]
+- <a name='todo'></a> [2021] Recent Advances of Continual Learning in Computer Vision_ An Overview [[paper](https://arxiv.org/abs/2109.11369)]
 
-- <a name='todo'></a> [2021 TPAMI] A continual learning survey_ Defying forgetting in classification tasks [[paper]()]
+- <a name='todo'></a> [2021 TPAMI] A continual learning survey_ Defying forgetting in classification tasks [[paper](https://arxiv.org/abs/1909.08383)]
 
-- <a name='todo'></a> [2021 Neural Computation] Replay in Deep Learning_ Current Approaches and Missing Biological Elements [[paper]()]
+- <a name='todo'></a> [2021 Neural Computation] Replay in Deep Learning_ Current Approaches and Missing Biological Elements [[paper](https://arxiv.org/abs/2104.04132)]
 
-- <a name='todo'></a> [2020 Trends in Cognitive Sciences] Embracing Change_ Continual Learning in Deep Neural Networks [[paper]()]
+- <a name='todo'></a> [2020 Trends in Cognitive Sciences] Embracing Change_ Continual Learning in Deep Neural Networks [[paper](https://www.sciencedirect.com/science/article/pii/S1364661320302199)]
 
-- <a name='todo'></a> [2020 TPAMI] Class-incremental learning survey and performance evaluation on image classification [[paper]()]
+- <a name='todo'></a> [2020 TPAMI] Class-incremental learning survey and performance evaluation on image classification [[paper](https://arxiv.org/abs/2010.15277)]
 
-- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing_ A Survey [[paper]()]
+- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing_ A Survey [[paper](https://arxiv.org/abs/2012.09823)]
   
 - <a name="todo"></a> [2019 Neural Networks] Continual Lifelong Learning with Neural Networks: A Review [[paper](https://arxiv.org/abs/1802.07569)]
 
