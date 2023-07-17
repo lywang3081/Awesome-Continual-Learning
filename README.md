@@ -92,47 +92,342 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 NeurIPS] Continual Learning In Environments With Polynomial Mixing Times [[paper](https://arxiv.org/abs/2112.07066)]
 
-- <a name='todo'></a> [2022 NeurIPS] Continual learning a feature extraction formalization, an efficient algorithm, and fundamental obstructions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b63a24a1832bd14fa945c71f535c0095-Abstract-Conference.html)]
+- <a name='todo'></a> [2022 NeurIPS] Continual learning a feature extraction formalization, an efficient algorithm, and fundamental obstructions [[paper](https://arxiv.org/abs/2203.14383)]
 
 - <a name='todo'></a> [2022 NeurIPS] CLiMB A Continual Learning Benchmark for Vision-and-Language Tasks [[paper](https://arxiv.org/abs/2206.09059)]
 
-- <a name='todo'></a> [2022 NeurIPS] CGLB Benchmark Tasks for Continual Graph Learning [[paper](https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html)]
+- <a name='todo'></a> [2022 NeurIPS] CGLB Benchmark Tasks for Continual Graph Learning [[paper](https://openreview.net/forum?id=5wNiiIDynDF)]
 
 - <a name='todo'></a> [2022 NeurIPS] Beyond Not-Forgetting Continual Learning with Backward Knowledge Transfer [[paper](https://arxiv.org/abs/2211.00789)]
 
 - <a name='todo'></a> [2022 NeurIPS] ALIFE Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation [[paper](https://arxiv.org/abs/2210.06816)]
 
-- <a name='todo'></a> [2022 NeurIPS] A Theoretical Study on Solving Continual Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html)]
+- <a name='todo'></a> [2022 NeurIPS] A Theoretical Study on Solving Continual Learning [[paper](https://arxiv.org/abs/2211.02633)]
 
-- <a name='todo'></a> [2022 NeurIPSW] A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning [[paper](https://neurips.cc/virtual/2022/60478)]
+- <a name='todo'></a> [2022 NeurIPSW] A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning [[paper](https://arxiv.org/abs/2210.04428)]
 
-- <a name='todo'></a> [2022 Neural Networks] Efficient Perturbation Inference and Expandable Network for Continual Learning [[paper](None)]
+- <a name='todo'></a> [2022 Neural Networks] Efficient Perturbation Inference and Expandable Network for Continual Learning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022004269)]
 
 - <a name='todo'></a> [2022 NAACL] Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation [[paper](https://aclanthology.org/2022.naacl-main.398.pdf)]
 
-- <a name='todo'></a> [2022 MM] Semantics-Driven Generative Replay for Few-Shot Class Incremental Learning [[paper](None)]
+- <a name='todo'></a> [2022 MM] Semantics-Driven Generative Replay for Few-Shot Class Incremental Learning [[paper](https://doi.org/10.1145/3503161.3548160)]
 
-- <a name='todo'></a> [2022 MM] Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation [[paper](https://github.com/wuyirui)]
+- <a name='todo'></a> [2022 MM] Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation [[paper](https://arxiv.org/abs/2207.12964)]
 
-- <a name='todo'></a> [2022 MM] Class Gradient Projection For Continual Learning [[paper](https://dl.acm.org/doi/10.1145/3503161.3548054)]
+- <a name='todo'></a> [2022 MM] Class Gradient Projection For Continual Learning [[paper](https://doi.org/10.1145/3503161.3548054)]
 
-- <a name='todo'></a> [2022 IJCAI] Learning from Students_ Online Contrastive Distillation Network for General Continual Learning [[paper](https://www.ijcai.org/proceedings/2022/446)]
+- <a name='todo'></a> [2022 IJCAI] Learning from Students_ Online Contrastive Distillation Network for General Continual Learning [[paper](https://doi.org/10.24963/ijcai.2022/446)]
 
-- <a name='todo'></a> [2022 IJCAI] DyGRAIN_ An Incremental Learning Framework for Dynamic Graphs [[paper](https://www.ijcai.org/proceedings/2022/438)]
+- <a name='todo'></a> [2022 IJCAI] DyGRAIN_ An Incremental Learning Framework for Dynamic Graphs [[paper](https://doi.org/10.24963/ijcai.2022/438)]
 
-- <a name='todo'></a> [2022 IJCAI] Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal [[paper](https://www.ijcai.org/proceedings/2022/177)]
+- <a name='todo'></a> [2022 IJCAI] Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal [[paper](https://doi.org/10.24963/ijcai.2022/177)]
 
-- <a name='todo'></a> [2022 IJCAI] Continual Federated Learning Based on Knowledge Distillation [[paper](https://www.ijcai.org/proceedings/2022/303)]
+- <a name='todo'></a> [2022 IJCAI] Continual Federated Learning Based on Knowledge Distillation [[paper](https://doi.org/10.24963/ijcai.2022/303)]
 
-- <a name='todo'></a> [2022 IJCAI] CERT_ Continual Pre-Training on Sketches for Library-Oriented Code Generation [[paper](https://www.ijcai.org/proceedings/2022/329)]
+- <a name='todo'></a> [2022 IJCAI] CERT_ Continual Pre-Training on Sketches for Library-Oriented Code Generation [[paper](https://doi.org/10.24963/ijcai.2022/329)]
 
 - <a name='todo'></a> [2022 ICPR] Effects of Auxiliary Knowledge on Continual Learning [[paper](https://arxiv.org/abs/2206.02577v1)]
 
 - <a name='todo'></a> [2022 ICML] Wide Neural Networks Forget Less Catastrophically [[paper](https://arxiv.org/abs/2110.11526)]
 
+- <a name='todo'></a> [2022 ICML] Wide Neural Networks Forget Less Catastrophically [[paper](https://arxiv.org/abs/2110.11526)]
 
+- <a name='todo'></a> [2022 ICML] VariGrow_ Variational Architecture Growing for Task-Agnostic Continual Learning based on Bayesian Novelty [[paper](https://proceedings.mlr.press/v162/ardywibowo22a.html)]
+
+- <a name='todo'></a> [2022 ICML] Proving Theorems using Incremental Learning and Hindsight Experience Replay [[paper](https://arxiv.org/abs/2112.10664)]
+
+- <a name='todo'></a> [2022 ICML] Online Continual Learning through Mutual Information Maximization [[paper](https://proceedings.mlr.press/v162/guo22g.html)]
+
+- <a name='todo'></a> [2022 ICML] NISPA_ Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks [[paper](https://arxiv.org/abs/2206.09117)]
+
+- <a name='todo'></a> [2022 ICML] Improving Task-free Continual Learning by Distributionally Robust Memory Evolution [[paper](https://arxiv.org/abs/2207.07256)]
+
+- <a name='todo'></a> [2022 ICML] Forget-free Continual Learning with Winning Subnetworks [[paper](https://arxiv.org/abs/2303.14962)]
+
+- <a name='todo'></a> [2022 ICML] Continual Learning with Guarantees via Weight Interval Constraints [[paper](https://arxiv.org/abs/2206.07996)]
+
+- <a name='todo'></a> [2022 ICML] Continual Learning via Sequential Function-Space Variational Inference [[paper](https://proceedings.mlr.press/v162/rudner22a.html)]
+
+- <a name='todo'></a> [2022 ICLR] TRGP TRUST REGION GRADIENT PROJECTION FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2202.02931)]
+
+- <a name='todo'></a> [2022 ICLR] TOWARDS CONTINUAL KNOWLEDGE LEARNING OF LANGUAGE MODELS [[paper](https://arxiv.org/abs/2110.03215)]
+
+- <a name='todo'></a> [2022 ICLR] SUBSPACE REGULARIZERS FOR FEW-SHOT CLASS INCREMENTAL LEARNING [[paper](https://arxiv.org/abs/2110.07059)]
+
+- <a name='todo'></a> [2022 ICLR] REPRESENTATIONAL CONTINUITY FOR UNSUPERVISED CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2110.06976)]
+
+- <a name='todo'></a> [2022 ICLR] PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING A COMPARATIVE STUDY [[paper](https://openreview.net/forum?id=figzpGMrdD)]
+
+- <a name='todo'></a> [2022 ICLR] ONLINE CORESET SELECTION FOR REHEARSAL-BASED CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2106.01085)]
+
+- <a name='todo'></a> [2022 ICLR] ONLINE CONTINUAL LEARNING ON CLASS INCREMENTAL BLURRY TASK CONFIGURATION WITH ANYTIME INFERENCE [[paper](https://arxiv.org/abs/2110.10031)]
+
+- <a name='todo'></a> [2022 ICLR] NEW INSIGHTS ON REDUCING ABRUPT REPRESENTATION CHANGE IN ONLINE CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2104.05025)]
+
+- <a name='todo'></a> [2022 ICLR] NEW INSIGHTS ON REDUCING ABRUPT REPRESENTA- TION CHANGE IN ONLINE CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2104.05025)]
+
+- <a name='todo'></a> [2022 ICLR] Model Zoo A Growing “Brain” That Learns Continually [[paper](https://arxiv.org/abs/2106.03027)]
+
+- <a name='todo'></a> [2022 ICLR] MEMORY REPLAY WITH DATA COMPRESSION FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2202.06592)]
+
+- <a name='todo'></a> [2022 ICLR] LOOKING BACK ON LEARNED EXPERIENCES FOR CLASS_TASK INCREMENTAL LEARNING [[paper](https://openreview.net/forum?id=RxplU3vmBx)]
+
+- <a name='todo'></a> [2022 ICLR] LFPT5 A UNIFIED FRAMEWORK FOR LIFELONG FEW-SHOT LANGUAGE LEARNING BASED ON PROMPT TUNING OF T5 [[paper](https://arxiv.org/abs/2110.07298)]
+
+- <a name='todo'></a> [2022 ICLR] LEARNING FAST, LEARNING SLOW A GENERAL CONTINUAL LEARNING METHOD BASED ON COMPLEMENTARY LEARNING SYSTEM [[paper](https://arxiv.org/abs/2201.12604)]
+
+- <a name='todo'></a> [2022 ICLR] LEARNING CURVES FOR CONTINUAL LEARNING IN NEURAL NETWORKS SELF-KNOWLEDGE TRANSFER AND FORGETTING [[paper](https://arxiv.org/abs/2112.01653)]
+
+- <a name='todo'></a> [2022 ICLR] INFORMATION-THEORETIC ONLINE MEMORY SELECTION FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2204.04763)]
+
+- <a name='todo'></a> [2022 ICLR] HOW WELL DOES SELF-SUPERVISED PRE-TRAINING PERFORM WITH STREAMING DATA [[paper](https://arxiv.org/abs/2104.12081)]
+
+- <a name='todo'></a> [2022 ICLR] EFFECT OF MODEL AND PRETRAINING SCALE ON CATASTROPHIC FORGETTING IN NEURAL NETWORKS [[paper](https://openreview.net/forum?id=GhVS8_yPeEa)]
+
+- <a name='todo'></a> [2022 ICLR] CONTINUAL NORMALIZATION RETHINKING BATCH NORMALIZATION FOR ONLINE CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2203.16102)]
+
+- <a name='todo'></a> [2022 ICLR] CONTINUAL LEARNING WITH RECURSIVE GRADIENT OPTIMIZATION [[paper](https://arxiv.org/pdf/2201.12522.pdf)]
+
+- <a name='todo'></a> [2022 ICLR] CONTINUAL LEARNING WITH FILTER ATOM SWAPPING [[paper](https://openreview.net/forum?id=metRpM4Zrcb)]
+
+- <a name='todo'></a> [2022 ICLR] COMPS CONTINUAL META POLICY SEARCH [[paper](https://arxiv.org/abs/2112.04467)]
+
+- <a name='todo'></a> [2022 ICLR] CLEVA-COMPASS A CONTINUAL LEARNING EVALUATION ASSESSMENT COMPASS TO PROMOTE RESEARCH TRANSPARENCY AND COMPARABILITY [[paper](https://arxiv.org/abs/2110.03331)]
+
+- <a name='todo'></a> [2022 EMNLP] Continual Training of Language Models for Few-Shot Learning [[paper](https://arxiv.org/abs/2210.05549)]
+
+- <a name='todo'></a> [2022 ECCV] Transfer without Forgetting [[paper](https://arxiv.org/abs/2206.00388)]
+
+- <a name='todo'></a> [2022 ECCV] The Challenges of Continuous Self-Supervised Learning [[paper](https://arxiv.org/abs/2203.12710)]
+
+- <a name='todo'></a> [2022 ECCV] S3C Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2307.02246)]
+
+- <a name='todo'></a> [2022 ECCV] R-DFCIL Relation-Guided Representation Learning for Data-Free Class Incremental Learning [[paper](https://arxiv.org/abs/2203.13104)]
+
+- <a name='todo'></a> [2022 ECCV] Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation [[paper](https://arxiv.org/abs/2207.10856)]
+
+- <a name='todo'></a> [2022 ECCV] Online Task-free Continual Learning with Dynamic Sparse Distributed Memory [[paper](https://doi.org/10.1007/978-3-031-19806-9_42)]
+
+- <a name='todo'></a> [2022 ECCV] Online Continual Learning with Contrastive Vision Transformer [[paper](https://arxiv.org/abs/2207.13516)]
+
+- <a name='todo'></a> [2022 ECCV] Novel Class Discovery without Forgetting [[paper](http://arxiv.org/abs/2207.10659)]
+
+- <a name='todo'></a> [2022 ECCV] Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions [[paper](https://arxiv.org/abs/2209.01501)]
+
+- <a name='todo'></a> [2022 ECCV] Long-Tailed Class Incremental Learning [[paper](https://arxiv.org/abs/2210.00266)]
+
+- <a name='todo'></a> [2022 ECCV] Learning with Recoverable Forgetting [[paper](https://arxiv.org/abs/2207.08224)]
+
+- <a name='todo'></a> [2022 ECCV] Incremental Task Learning with Incremental Rank Updates [[paper](https://arxiv.org/abs/2207.09074)]
+
+- <a name='todo'></a> [2022 ECCV] incDFM Incremental Deep Feature Modeling for Continual Novelty Detection [[paper](https://doi.org/10.1007/978-3-031-19806-9_34)]
+
+- <a name='todo'></a> [2022 ECCV] Helpful or Harmful Inter-Task Association in Continual Learning [[paper](https://doi.org/10.1007/978-3-031-20083-0_31)]
+
+- <a name='todo'></a> [2022 ECCV] Generative Negative Text Replay for Continual Vision-Language Pretraining [[paper](https://arxiv.org/abs/2210.17322)]
+
+- <a name='todo'></a> [2022 ECCV] FOSTER Feature Boosting and Compression for Class-Incremental Learning [[paper](https://arxiv.org/abs/2204.04662)]
+
+- <a name='todo'></a> [2022 ECCV] Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay [[paper](https://arxiv.org/abs/2207.11213)]
+
+- <a name='todo'></a> [2022 ECCV] Few-Shot Class-Incremental Learning from an Open-Set Perspective [[paper](https://arxiv.org/abs/2208.00147)]
+
+- <a name='todo'></a> [2022 ECCV] DualPrompt Complementary Prompting for Rehearsal-free Continual Learning [[paper](https://arxiv.org/abs/2204.04799)]
+
+- <a name='todo'></a> [2022 ECCV] DLCFT Deep Linear Continual Fine-Tuning for General Incremental Learning [[paper](https://arxiv.org/abs/2208.08112)]
+
+- <a name='todo'></a> [2022 ECCV] CoSCL Cooperation of Small Continual Learners is Stronger than a Big One [[paper](https://arxiv.org/abs/2207.06543)]
+
+- <a name='todo'></a> [2022 ECCV] Class-incremental Novel Class Discovery [[paper](https://arxiv.org/abs/2207.08605)]
+
+- <a name='todo'></a> [2022 ECCV] Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer [[paper](https://arxiv.org/abs/2208.03767)]
+
+- <a name='todo'></a> [2022 ECCV] Balancing Stability and Plasticity through Advanced Null Space in Continual Learning [[paper](https://arxiv.org/abs/2207.12061)]
+
+- <a name='todo'></a> [2022 ECCV] Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning [[paper](https://doi.org/10.1007/978-3-031-19809-0_21)]
+
+- <a name='todo'></a> [2022 ECCV] Anti-Retroactive Interference for Lifelong Learning [[paper](https://arxiv.org/abs/2208.12967)]
+
+- <a name='todo'></a> [2022 CVPR] vCLIMB A Novel Video Class Incremental Learning Benchmark [[paper](https://arxiv.org/abs/2201.09381)]
+
+- <a name='todo'></a> [2022 CVPR] Towards Better Plasticity-Stability Trade-off in Incremental Learning A Simple Linear Connector [[paper](https://arxiv.org/abs/2110.07905)]
+
+- <a name='todo'></a> [2022 CVPR] Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning [[paper](https://arxiv.org/abs/2203.06359)]
+
+- <a name='todo'></a> [2022 CVPR] Self-Supervised Models are Continual Learners [[paper](https://arxiv.org/abs/2112.04215)]
+
+- <a name='todo'></a> [2022 CVPR] Representation Compensation Networks for Continual Semantic Segmentation [[paper](https://arxiv.org/abs/2203.05402)]
+
+- <a name='todo'></a> [2022 CVPR] Probing Representation Forgetting in Supervised and Unsupervised Continual Learning [[paper](https://arxiv.org/abs/2203.13381)]
+
+- <a name='todo'></a> [2022 CVPR] Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation [[paper](https://arxiv.org/abs/2204.02136)]
+
+- <a name='todo'></a> [2022 CVPR] Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries [[paper](https://arxiv.org/abs/2203.15355)]
+
+- <a name='todo'></a> [2022 CVPR] On Generalizing Beyond Domains in Cross-Domain Continual Learning [[paper](https://arxiv.org/abs/2203.03970)]
+
+- <a name='todo'></a> [2022 CVPR] Not Just Selection, but Exploration Online Class-Incremental Continual Learning via Dual View Consistency [[paper](https://ieeexplore.ieee.org/abstract/document/9879220)]
+
+- <a name='todo'></a> [2022 CVPR] Mimicking the Oracle An Initial Phase Decorrelation Approach for Class Incremental Learning [[paper](https://arxiv.org/abs/2112.04731)]
+
+- <a name='todo'></a> [2022 CVPR] MetaFSCIL A Meta-Learning Approach for Few-Shot Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9878925)]
+
+- <a name='todo'></a> [2022 CVPR] Meta-attention for ViT-backed Continual Learning [[paper](https://arxiv.org/abs/2203.11684)]
+
+- <a name='todo'></a> [2022 CVPR] Lifelong Graph Learning [[paper](https://arxiv.org/abs/2202.10688)]
+
+- <a name='todo'></a> [2022 CVPR] Learning to Prompt for Continual Learning [[paper](https://arxiv.org/abs/2112.08654)]
+
+- <a name='todo'></a> [2022 CVPR] Learning to Imagine Diversify Memory for Incremental Learning using Unlabeled Data [[paper](https://arxiv.org/abs/2204.08932)]
+
+- <a name='todo'></a> [2022 CVPR] Learning Bayesian Sparse Networks with Full Experience Replay for Continual Learning [[paper](https://arxiv.org/abs/2202.10203)]
+
+- <a name='todo'></a> [2022 CVPR] Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding [[paper](https://arxiv.org/abs/2203.00867)]
+
+- <a name='todo'></a> [2022 CVPR] Incremental Learning in Semantic Segmentation from Image Labels [[paper](https://arxiv.org/pdf/2112.01882.pdf)]
+
+- <a name='todo'></a> [2022 CVPR] General Incremental Learning with Domain-aware Categorical Representations [[paper](https://arxiv.org/abs/2204.04078)]
+
+- <a name='todo'></a> [2022 CVPR] GCR GRADIENT CORESET BASED REPLAY BUFFER SELECTION FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2111.11210)]
+
+- <a name='todo'></a> [2022 CVPR] Forward Compatible Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2203.06953)]
+
+- <a name='todo'></a> [2022 CVPR] Few-Shot Incremental Learning for Label-to-Image Translation [[paper](https://ieeexplore.ieee.org/document/9878463)]
+
+- <a name='todo'></a> [2022 CVPR] Federated Class-Incremental Learning [[paper](https://arxiv.org/abs/2203.11473)]
+
+- <a name='todo'></a> [2022 CVPR] Energy-based Latent Aligner for Incremental Learning [[paper](https://arxiv.org/abs/2203.14952)]
+
+- <a name='todo'></a> [2022 CVPR] DyTox Transformers for Continual Learning with DYnamic TOken eXpansion [[paper](https://arxiv.org/abs/2111.11326)]
+
+- <a name='todo'></a> [2022 CVPR] Doodle It Yourself Class Incremental Learning by Drawing a Few Sketches [[paper](https://arxiv.org/abs/2203.14843)]
+
+- <a name='todo'></a> [2022 CVPR] Continual Learning with Lifelong Vision Transformer [[paper](https://ieeexplore.ieee.org/document/9880356)]
+
+- <a name='todo'></a> [2022 CVPR] Continual Learning for Visual Search with Backward Consistent Feature Embedding [[paper](https://arxiv.org/abs/2205.13384)]
+
+- <a name='todo'></a> [2022 CVPR] Constrained Few-shot Class-incremental Learning [[paper](https://arxiv.org/abs/2203.16588)]
+
+- <a name='todo'></a> [2022 CVPR] Class-Incremental Learning with Strong Pre-trained Models [[paper](https://arxiv.org/abs/2204.03634)]
+
+- <a name='todo'></a> [2022 CVPR] Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation [[paper](https://arxiv.org/abs/2204.00895)]
+
+- <a name='todo'></a> [2022 CVPR] Bring Evanescent Representations to Life in Lifelong Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9878745)]
+
+- <a name='todo'></a> [2022 CVIU] Balanced softmax cross-entropy for incremental learning with and without memory [[paper](https://arxiv.org/abs/2103.12532)]
+
+- <a name='todo'></a> [2022 COLING] Incremental Prompting_ Episodic Memory Prompt for Lifelong Event Detection [[paper](https://arxiv.org/abs/2204.07275)]
+
+- <a name='todo'></a> [2022 COLING] Dynamic Dialogue Policy for Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2204.05928)]
+
+- <a name='todo'></a> [2022 COLING] Continual Few-shot Intent Detection [[paper](https://aclanthology.org/2022.coling-1.26/)]
+
+- <a name='todo'></a> [2022 ACL] Overcoming Catastrophic Forgetting beyond Continual Learning_ Balanced Training for Neural Machine Translation [[paper](https://arxiv.org/abs/2203.03910)]
+
+- <a name='todo'></a> [2022 ACL] Few-Shot Class-Incremental Learning for Named Entity Recognition [[paper](https://aclanthology.org/2022.acl-long.43/)]
+
+- <a name='todo'></a> [2022 ACL] Continual Sequence Generation with Adaptive Compositional Modules [[paper](https://arxiv.org/abs/2203.10652)]
+
+- <a name='todo'></a> [2022 ACL] Continual Prompt Tuning for Dialog State Tracking [[paper](https://arxiv.org/abs/2203.06654)]
+
+- <a name='todo'></a> [2022 ACL] Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network [[paper](https://aclanthology.org/2022.acl-long.408/)]
+
+- <a name='todo'></a> [2022 ACL] Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation [[paper](https://arxiv.org/abs/2203.02135)]
+
+- <a name='todo'></a> [2022 ACL] ConTinTin_ Continual Learning from Task Instructions [[paper](https://arxiv.org/abs/2203.08512)]
+
+- <a name='todo'></a> [2022 AAAI] Static-Dynamic Co-teaching for Class-Incremental 3D Object Detection [[paper](https://arxiv.org/abs/2112.07241)]
+
+- <a name='todo'></a> [2022 AAAI] Same State, Different Task Continual Reinforcement Learning without Interference [[paper](https://arxiv.org/abs/2106.02940)]
+
+- <a name='todo'></a> [2022 AAAI] Learngene From Open-World to Your Learning Task [[paper](https://arxiv.org/abs/2106.06788)]
+
+- <a name='todo'></a> [2022 AAAI] Continual Learning through Retrieval and Imagination [[paper](https://doi.org/10.1609/aaai.v36i8.20837)]
+
+- <a name='todo'></a> [2022 AAAI] Adaptive Orthogonal Projection for Batch and Online Continual Learning [[paper](https://doi.org/10.1609/aaai.v36i6.20634)]
 
 ### 2021
+
+- <a name='todo'></a> [2021 arXiv] SPeCiaL Self-Supervised Pretraining for Continual Learning [[paper](https://arxiv.org/abs/2106.09065)]
+
+- <a name='todo'></a> [2021 arXiv] AN EMPIRICAL INVESTIGATION OF THE ROLE OF PRE-TRAINING IN LIFELONG LEARNING [[paper](https://arxiv.org/abs/2112.09153)]
+
+- <a name='todo'></a> [2021 WACV] Do not Forget to Attend to Uncertainty while Mitigating Catastrophic Forgetting [[paper](https://arxiv.org/abs/2102.01906)]
+
+- <a name='todo'></a> [2021 TPAMI] Incremental Object Detection via Meta-Learning [[paper](https://arxiv.org/abs/2003.08798)]
+
+- <a name='todo'></a> [2021 TNNLS] Triple-Memory Networks A Brain-Inspired Method for Continual Learning [[paper](https://arxiv.org/abs/2003.03143)]
+
+- <a name='todo'></a> [2021 PRL] ACAE-REMIND for Online Continual Learning with Compressed Feature Replay [[paper](https://arxiv.org/abs/2105.08595)]
+
+- <a name='todo'></a> [2021 NeurIPS] SSUL Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning [[paper](https://arxiv.org/abs/2106.11562)]
+
+- <a name='todo'></a> [2021 NeurIPS] RMM Reinforced Memory Management for Class-Incremental Learning [[paper](https://arxiv.org/abs/2301.05792)]
+
+- <a name='todo'></a> [2021 NeurIPS] Posterior Meta-Replay for Continual Learning [[paper](https://arxiv.org/abs/2103.01133)]
+
+- <a name='todo'></a> [2021 NeurIPS] Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima [[paper](https://arxiv.org/abs/2111.01549)]
+
+- <a name='todo'></a> [2021 NeurIPS] Optimizing Reusable Knowledge for Continual Learning via Metalearning [[paper](https://arxiv.org/abs/2106.05390)]
+
+- <a name='todo'></a> [2021 NeurIPS] Natural continual learning success is a journey, not (just) a destination [[paper](https://arxiv.org/abs/2106.08085)]
+
+- <a name='todo'></a> [2021 NeurIPS] Mitigating Forgetting in Online Continual Learning with Neuron Calibration [[paper](https://arxiv.org/abs/2211.05347)]
+
+- <a name='todo'></a> [2021 NeurIPS] Lifelong Domain Adaptation via Consolidated Internal Distribution [[paper](https://openreview.net/forum?id=lpW-UP8VKcg)]
+
+- <a name='todo'></a> [2021 NeurIPS] Learning where to learn Gradient sparsity in meta and continual learning [[paper](https://arxiv.org/abs/2110.14402)]
+
+- <a name='todo'></a> [2021 NeurIPS] Gradient-based Editing of Memory Examples for Online Task-free Continual Learning [[paper](https://arxiv.org/abs/2006.15294)]
+
+- <a name='todo'></a> [2021 NeurIPS] Generative vs Discriminative Rethinking The Meta-Continual Learning [[paper](https://openreview.net/forum?id=soDi-HkzC1)]
+
+- <a name='todo'></a> [2021 NeurIPS] Formalizing the Generalization-Forgetting Trade-Off in Continual Learning [[paper](https://arxiv.org/abs/2109.14035)]
+
+- <a name='todo'></a> [2021 NeurIPS] Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning [[paper](https://arxiv.org/abs/2110.04593)]
+
+- <a name='todo'></a> [2021 NeurIPS] DualNet Continual Learning, Fast and Slow [[paper](https://arxiv.org/abs/2110.00175)]
+
+- <a name='todo'></a> [2021 NeurIPS] Continual World_ A Robotic Benchmark For Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2105.10919)]
+
+- <a name='todo'></a> [2021 NeurIPS] Continual Learning via Local Module Composition [[paper](https://arxiv.org/abs/2111.07736)]
+
+- <a name='todo'></a> [2021 NeurIPS] Continual Auxiliary Task Learning [[paper](https://arxiv.org/abs/2202.11133)]
+
+- <a name='todo'></a> [2021 NeurIPS] Class-Incremental Learning via Dual Augmentation [[paper](https://openreview.net/forum?id=8dqEeFuhgMG)]
+
+- <a name='todo'></a> [2021 NeurIPS] Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection [[paper](https://arxiv.org/abs/2110.15017)]
+
+- <a name='todo'></a> [2021 NeurIPS] BooVAE Boosting Approach for Continual Learning of VAE [[paper](https://arxiv.org/abs/1908.11853)]
+
+- <a name='todo'></a> [2021 NeurIPS] BNS Building Network Structures Dynamically for Continual Learning [[paper](https://openreview.net/forum?id=2ybxtABV2Og)]
+
+- <a name='todo'></a> [2021 NeurIPS] AFEC Active Forgetting of Negative Transfer in Continual Learning [[paper](https://arxiv.org/abs/2110.12187)]
+
+- <a name='todo'></a> [2021 NeurIPS] Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning [[paper](https://arxiv.org/abs/2112.02706)]
+
+- <a name='todo'></a> [2021 NAACL] Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution [[paper](https://arxiv.org/abs/2103.06799)]
+
+- <a name='todo'></a> [2021 NAACL] Continual Learning for Text Classification with Information Disentanglement Based Regularization [[paper](https://arxiv.org/abs/2104.05489v1)]
+
+- <a name='todo'></a> [2021 NAACL] Continual Learning for Neural Machine Translation [[paper](https://aclanthology.org/2021.naacl-main.310/)]
+
+- <a name='todo'></a> [2021 NAACL] Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks [[paper](https://arxiv.org/abs/2112.03271)]
+
+- <a name='todo'></a> [2021 MM] Video Transformer for Deepfake Detection with Incremental Learning [[paper](https://arxiv.org/abs/2108.05307)]
+
+- <a name='todo'></a> [2021 MM] Remember and Reuse_ Cross-Task Blind Image Quality Assessment via Relevance-aware Incremental Learning [[paper](https://doi.org/10.1145/3474085.3475642)]
+
+- <a name='todo'></a> [2021 MM] Co-Transport for Class-Incremental Learning [[paper](https://arxiv.org/abs/2107.12654)]
+
+- <a name='todo'></a> [2021 MM] An EM Framework for Online Incremental Learning of Semantic Segmentation [[paper](https://arxiv.org/abs/2108.03613)]
+
+- <a name='todo'></a> [2021 IJCAI] TrafficStream_ A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning [[paper](https://arxiv.org/abs/2106.06273)]
+
+- <a name='todo'></a> [2021 IJCAI] Learning with Selective Forgetting [[paper](https://doi.org/10.24963/ijcai.2021/137)]
+
+- <a name='todo'></a> [2021 IJCAI] Knowledge Consolidation based Class Incremental Online Learning with Limited Data [[paper](https://arxiv.org/abs/2106.06795)]
+
 
 ### 2020
 
