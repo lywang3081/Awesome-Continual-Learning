@@ -5,6 +5,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 ## Survey
 
+- <a name="todo"></a> [**Neural Networks**] Continual Lifelong Learning with Neural Networks: A Review [[paper](https://arxiv.org/abs/1802.07569)]
 
 ## Papers
 
