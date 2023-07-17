@@ -6,9 +6,9 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 ## Survey
 
 - <a name="todo"></a> [2023 arXiv] A Comprehensive Survey of Continual Learning: Theory, Method and Application [[paper](https://arxiv.org/abs/2302.00487)]
-- 
+  
 - <a name="todo"></a> [2023 arXiv] A Survey on Incremental Update for Neural Recommender Systems [[paper](https://arxiv.org/abs/2303.02851#)]
-- 
+  
 - <a name="todo"></a> [2023 arXiv] Deep Class-Incremental Learning: A Survey [[paper](https://arxiv.org/abs/2302.03648)]
 
 - <a name="todo"></a> [2023 arXiv] Towards Label-Efficient Incremental Learning A Survey [[paper](https://arxiv.org/abs/2302.00353)]
