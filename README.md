@@ -428,6 +428,134 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 IJCAI] Knowledge Consolidation based Class Incremental Online Learning with Limited Data [[paper](https://arxiv.org/abs/2106.06795)]
 
+- <a name='todo'></a> [2021 IJCAI] FedSpeech_ Federated Text-to-Speech with Continual Learning [[paper](https://arxiv.org/abs/2110.07216)]
+
+- <a name='todo'></a> [2021 ICPR] Semi-Supervised Class Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICPR] Class-incremental Learning with Pre-allocated Fixed Classifiers [[paper](https://arxiv.org/abs/2010.08657)]
+
+- <a name='todo'></a> [2021 ICML] Variational Auto-Regressive Gaussian Processes for Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICML] Kernel Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICML] GP-Tree A Gaussian Process Classifier for Few-Shot Incremental Learning [[paper](https://arxiv.org/abs/2102.07868)]
+
+- <a name='todo'></a> [2021 ICML] Federated Continual Learning with Weighted Inter-client Transfer [[paper](https://arxiv.org/abs/2003.03196)]
+
+- <a name='todo'></a> [2021 ICML] Continuous Coordination As a Realistic Scenario for Lifelong Learning [[paper](https://arxiv.org/abs/2103.03216)]
+
+- <a name='todo'></a> [2021 ICML] Continual Learning in the Teacher-Student Setup Impact of Task Similarity [[paper](https://arxiv.org/pdf/2107.04384.pdf)]
+
+- <a name='todo'></a> [2021 ICML] Bayesian Structural Adaptation for Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICLR] REMEMBERING FOR THE RIGHT REASONS EXPLANATIONS REDUCE CATASTROPHIC FORGETTING [[paper](https://openreview.net/pdf?id=tHgJoMfy6nI)]
+
+- <a name='todo'></a> [2021 ICLR] LINEAR MODE CONNECTIVITY IN MULTITASK AND CONTINUAL LEARNING [[paper](None)]
+
+- <a name='todo'></a> [2021 ICLR] GRADIENT PROJECTION MEMORY FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2103.09762)]
+
+- <a name='todo'></a> [2021 ICLR] GENERALIZED VARIATIONAL CONTINUAL LEARNING [[paper](https://openreview.net/forum?id=_IM-AfFhna9)]
+
+- <a name='todo'></a> [2021 ICLR] EFFICIENT CONTINUAL LEARNING WITH MODULAR NETWORKS AND TASK-DRIVEN PRIORS [[paper](https://openreview.net/forum?id=EKV158tSfwv)]
+
+- <a name='todo'></a> [2021 ICLR] EEC LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2101.04904)]
+
+- <a name='todo'></a> [2021 ICLR] CPR CLASSIFIER-PROJECTION REGULARIZATION FOR CONTINUAL LEARNING [[paper](https://openreview.net/forum?id=F2v4aqEL6ze)]
+
+- <a name='todo'></a> [2021 ICLR] CONTINUAL LEARNING IN RECURRENT NEURAL NETWORKS [[paper](https://openreview.net/forum?id=8xeBUgD8u9)]
+
+- <a name='todo'></a> [2021 ICLR] CONTEXTUAL TRANSFORMATION NETWORKS FOR ONLINE CONTINUAL LEARNING [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Wanderlust Online Continual Object Detection in the Real World [[paper](https://arxiv.org/abs/2108.11005)]
+
+- <a name='todo'></a> [2021 ICCV] Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Striking a Balance between Stability and Plasticity for Class-Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] SS-IL Separated Softmax for Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Rehearsal revealed The limits and merits of revisiting samples in continual learning [[paper](https://arxiv.org/abs/2104.07446)]
+
+- <a name='todo'></a> [2021 ICCV] RECALL Replay-based Continual Learning in Semantic Segmentation [[paper](https://arxiv.org/abs/2108.03673)]
+
+- <a name='todo'></a> [2021 ICCV] Online Continual Learning with Natural Distribution Shifts An Empirical Study with Visual Data [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting [[paper](https://arxiv.org/abs/2108.08165)]
+
+- <a name='todo'></a> [2021 ICCV] Few-Shot and Continual Learning with Attentive Independent Mechanisms [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Else-Net Elastic Semantic Network for Continual Action Recognition from Skeleton Data [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Detection and Continual Learning of Novel Face Presentation Attacks [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Continual Prototype Evolution Learning Online from Non-Stationary Data Streams [[paper](https://arxiv.org/abs/2009.00919)]
+
+- <a name='todo'></a> [2021 ICCV] Continual Learning on Noisy Data Streams via Self-Purified Replay [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Continual Learning for Image-Based Camera Localization [[paper](https://arxiv.org/abs/2108.09112)]
+
+- <a name='todo'></a> [2021 ICCV] Co2L Contrastive Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Class-Incremental Learning for Action Recognition in Videos [[paper](None)]
+
+- <a name='todo'></a> [2021 ICCV] Always Be Dreaming A New Approach for Data-Free Class-Incremental Learning [[paper](https://arxiv.org/abs/2106.09701)]
+
+- <a name='todo'></a> [2021 EMNLP] Total Recall_ a Customized Continual Learning Method for Neural Semantic Parsers [[paper](https://arxiv.org/abs/2109.05186)]
+
+- <a name='todo'></a> [2021 EMNLP] ECONET_ Effective Continual Pretraining of Language Models for Event Temporal Reasoning [[paper](https://arxiv.org/abs/2012.15283)]
+
+- <a name='todo'></a> [2021 EMNLP] Continual Learning in Task-Oriented Dialogue Systems [[paper](https://arxiv.org/abs/2012.15504)]
+
+- <a name='todo'></a> [2021 EMNLP] Continual Few-Shot Learning for Text Classification [[paper](None)]
+
+- <a name='todo'></a> [2021 EMNLP] CLASSIC Continual and Contrastive Learning of Aspect Sentiment Classification Tasks [[paper](https://arxiv.org/abs/2112.02714)]
+
+- <a name='todo'></a> [2021 CVPR] Training Networks in Null Space of Feature Covariance for Continual Learning [[paper](https://arxiv.org/abs/2103.07113)]
+
+- <a name='todo'></a> [2021 CVPR] Towards Open World Object Detection [[paper](https://arxiv.org/abs/2103.02603)]
+
+- <a name='todo'></a> [2021 CVPR] Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2103.04059)]
+
+- <a name='todo'></a> [2021 CVPR] Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2107.08918)]
+
+- <a name='todo'></a> [2021 CVPR] Rectification-based Knowledge Retention for Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] Rainbow Memory Continual Learning with a Memory of Diverse Samples [[paper](https://arxiv.org/abs/2103.17230)]
+
+- <a name='todo'></a> [2021 CVPR] Prototype Augmentation and Self-Supervision for Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] PLOP Learning without Forgetting for Continual Semantic Segmentation [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] ORDisCo Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning [[paper](https://arxiv.org/abs/2101.00407)]
+
+- <a name='todo'></a> [2021 CVPR] On Learning the Geodesic Path for Incremental Learning [[paper](https://arxiv.org/abs/2104.08572)]
+
+- <a name='todo'></a> [2021 CVPR] Lifelong Person Re-Identification via Adaptive Knowledge Accumulation [[paper](https://arxiv.org/abs/2103.12462)]
+
+- <a name='todo'></a> [2021 CVPR] Layerwise Optimization by Gradient Decomposition for Continual Learning [[paper](https://arxiv.org/abs/2105.07561)]
+
+- <a name='todo'></a> [2021 CVPR] Incremental Learning via Rate Reduction [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] Incremental Few-Shot Instance Segmentation [[paper](https://arxiv.org/abs/2105.05312)]
+
+- <a name='todo'></a> [2021 CVPR] Image De-raining via Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] IIRC Incremental Implicitly-Refined Classification [[paper](https://arxiv.org/abs/2012.12477)]
+
+- <a name='todo'></a> [2021 CVPR] Hyper-LifelongGAN Scalable Lifelong Learning for Image Conditioned Generation [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] Few-Shot Incremental Learning with Continually Evolved Classifiers [[paper](https://arxiv.org/abs/2104.03047)]
+
+- <a name='todo'></a> [2021 CVPR] Efficient Feature Transformations for Discriminative and Generative Continual Learning [[paper](https://arxiv.org/abs/2103.13558)]
+
+- <a name='todo'></a> [2021 CVPR] Distilling Causal Effect of Data in Class-Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2021 CVPR] DER Dynamically Expandable Representation for Class Incremental Learning [[paper](https://arxiv.org/abs/2103.16788)]
+
+- <a name='todo'></a> [2021 CVPR] Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations [[paper](https://arxiv.org/abs/2103.06342)]
+
+- <a name='todo'></a> [2021 CVPR] Continual Learning via Bit-Level Information Preserving [[paper](https://arxiv.org/abs/2105.04444v1)]
+
 
 ### 2020
 
