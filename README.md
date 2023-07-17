@@ -126,6 +126,8 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 IJCAI] CERT_ Continual Pre-Training on Sketches for Library-Oriented Code Generation [[paper](https://www.ijcai.org/proceedings/2022/329)]
 
+- <a name='todo'></a> [2022 ICPR] Effects of Auxiliary Knowledge on Continual Learning [[paper](https://arxiv.org/abs/2206.02577v1)]
+
 ### 2021
 
 ### 2020
