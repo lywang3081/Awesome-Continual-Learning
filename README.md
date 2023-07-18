@@ -562,6 +562,74 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 CVPR] Continual Learning via Bit-Level Information Preserving [[paper](https://arxiv.org/abs/2105.04444v1)]
 
+- <a name='todo'></a> [2021 CVPR] Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning [[paper](https://ieeexplore.ieee.org/document/9578295/)]
+
+- <a name='todo'></a> [2021 CVPR] Adaptive Aggregation Networks for Class-Incremental Learning [[paper](https://arxiv.org/abs/2010.05063)]
+
+- <a name='todo'></a> [2021 CVIU] SID Incremental Learning for Anchor-Free Object Detection via Selective and Inter-Related Distillation [[paper](https://arxiv.org/abs/2012.15439)]
+
+- <a name='todo'></a> [2021 CVIU] Knowledge Distillation for Incremental Learning in Semantic Segmentation [[paper](https://arxiv.org/abs/1911.03462)]
+
+- <a name='todo'></a> [2021 BMVC] Self-Supervised Training Enhances Online Continual Learning [[paper](https://arxiv.org/abs/2103.14010)]
+
+- <a name='todo'></a> [2021 AISTATS] Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors  [[paper](https://arxiv.org/abs/2004.10098)]
+
+- <a name='todo'></a> [2021 AISTATS] A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix [[paper](https://arxiv.org/abs/2010.04003)]
+
+- <a name='todo'></a> [2021 AAAI] Using Hindsight to Anchor Past Knowledge in Continual Learning [[paper](https://arxiv.org/abs/2002.08165)]
+
+- <a name='todo'></a> [2021 AAAI] Unsupervised Model Adaptation for Continual Semantic Segmentation [[paper](https://arxiv.org/pdf/2009.12518v1.pdf)]
+
+- <a name='todo'></a> [2021 AAAI] Split-and-Bridge Adaptable Class Incremental Learning within a Single Neural Network [[paper](https://arxiv.org/abs/2107.01349)]
+
+- <a name='todo'></a> [2021 AAAI] Online Class-Incremental Continual Learning with Adversarial Shapley Value [[paper](https://arxiv.org/abs/2009.00093)]
+
+- <a name='todo'></a> [2021 AAAI] Lifelong and Continual Learning Dialogue Systems Learning during Conversation [[paper](https://arxiv.org/abs/2211.06553)]
+
+- <a name='todo'></a> [2021 AAAI] Gradient Regularized Contrastive Learning for Continual Domain Adaptation [[paper](https://arxiv.org/abs/2103.12294v1)]
+
+- <a name='todo'></a> [2021 AAAI] Few-Shot Lifelong Learning [[paper](https://arxiv.org/abs/2103.00991)]
+
+- <a name='todo'></a> [2021 AAAI] Few-Shot Class-Incremental Learning via Relation Knowledge Distillation [[paper](https://doi.org/10.1609/aaai.v35i2.16213)]
+
+- <a name='todo'></a> [2021 AAAI] Curriculum-Meta Learning for Order-Robust Continual Relation Extraction [[paper](https://arxiv.org/abs/2101.01926)]
+
+- <a name='todo'></a> [2021 AAAI] Continual Learning for Named Entity Recognition [[paper](https://aclanthology.org/2022.findings-acl.179.pdf)]
+
+- <a name='todo'></a> [2021 AAAI] Continual Learning by Using Information of Each Class Holistically [[paper](https://doi.org/10.1609/aaai.v35i9.16952)]
+
+- <a name='todo'></a> [2021 AAAI] Class-Incremental Instance Segmentation via Multi-Teacher Networks [[paper](https://doi.org/10.1609/aaai.v35i2.16238)]
+
+- <a name='todo'></a> [2021 AAAI] A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation [[paper](https://doi.org/10.1609/aaai.v35i7.16752)]
+
+- <a name='todo'></a> [2020 WACV] ScaIL Classifier Weights Scaling for Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9093562/)]
+
+- <a name='todo'></a> [2020 WACV] Class-incremental Learning via Deep Model Consolidation [[paper](https://arxiv.org/abs/1903.07864)]
+
+- <a name='todo'></a> [2020 TPAMI] RPSNet An Adaptive Random Path Selection Approach for Incremental Learning [[paper](None)]
+
+- <a name='todo'></a> [2020 TPAMI] Continual Learning Using Bayesian Neural Networks [[paper](None)]
+
+- <a name='todo'></a> [2020 PRL] Faster ILOD Incremental Learning for Object Detectors based on Faster RCNN [[paper](https://arxiv.org/abs/2003.03901)]
+
+- <a name='todo'></a> [2020 NeurIPS] Understanding the Role of Training Regimes in Continual Learning [[paper](https://arxiv.org/abs/2006.06958)]
+
+- <a name='todo'></a> [2020 NeurIPS] RATT Recurrent Attention to Transient Tasks for Continual Image Captioning [[paper](https://openreview.net/forum?id=DlhyudbShm)]
+
+- <a name='todo'></a> [2020 NeurIPS] Organizing recurrent network dynamics by task-computation to enable continual learning [[paper](None)]
+
+- <a name='todo'></a> [2020 NeurIPS] Online Fast Adaptation and Knowledge Accumulation (OSAKA) a New Approach to Continual Learning [[paper](None)]
+
+- <a name='todo'></a> [2020 NeurIPS] Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization [[paper](None)]
+
+- <a name='todo'></a> [2020 NeurIPS] Meta-Consolidation for Continual Learning [[paper](https://arxiv.org/abs/2010.00352)]
+
+- <a name='todo'></a> [2020 NeurIPS] Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting [[paper](https://arxiv.org/abs/2007.07011)]
+
+- <a name='todo'></a> [2020 NeurIPS] La-MAML_ Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
+
+
+
 
 ### 2020
 
