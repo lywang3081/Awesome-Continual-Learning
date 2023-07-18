@@ -72,7 +72,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 NeurIPS] SparCL Sparse Continual Learning on the Edge [[paper](https://arxiv.org/abs/2209.09476)]
 
-- <a name='todo'></a> [2022 NeurIPS] S-Prompts Learning with Pre-trained Transformers An Occam��s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)]
+- <a name='todo'></a> [2022 NeurIPS] S-Prompts Learning with Pre-trained Transformers An Occam’s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)]
 
 - <a name='todo'></a> [2022 NeurIPS] Retrospective Adversarial Replay for Continual Learning [[paper](https://openreview.net/forum?id=XEoih0EwCwL)]
 
@@ -172,7 +172,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ICLR] New Insights on Reducing Abrupt Representation Change in Online Continual Learning [[paper](https://arxiv.org/abs/2104.05025)]
 
-- <a name='todo'></a> [2022 ICLR] Model Zoo A Growing ��Brain�� That Learns Continually [[paper](https://arxiv.org/abs/2106.03027)]
+- <a name='todo'></a> [2022 ICLR] Model Zoo A Growing “Brain” That Learns Continually [[paper](https://arxiv.org/abs/2106.03027)]
 
 - <a name='todo'></a> [2022 ICLR] Memory Replay with Data Compression for Continual Learning [[paper](https://arxiv.org/abs/2202.06592)]
 
@@ -840,7 +840,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 AAAI] ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding [[paper](https://doi.org/10.1609/aaai.v34i05.6428)]
 
-- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning: Learning ��New�� While Consolidating ��Known�� [[paper](https://doi.org/10.1609/aaai.v34i04.6060)]
+- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning: Learning ‘New’ While Consolidating ‘Known’ [[paper](https://doi.org/10.1609/aaai.v34i04.6060)]
 
 ### 2019
 
