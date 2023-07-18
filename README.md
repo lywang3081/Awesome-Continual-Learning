@@ -608,9 +608,9 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 WACV] Class-incremental Learning via Deep Model Consolidation [[paper](https://arxiv.org/abs/1903.07864)]
 
-- <a name='todo'></a> [2020 TPAMI] RPSNet An Adaptive Random Path Selection Approach for Incremental Learning [[paper](None)]
+- <a name='todo'></a> [2020 TPAMI] RPSNet An Adaptive Random Path Selection Approach for Incremental Learning [[paper](https://arxiv.org/abs/1906.01120)]
 
-- <a name='todo'></a> [2020 TPAMI] Continual Learning Using Bayesian Neural Networks [[paper](None)]
+- <a name='todo'></a> [2020 TPAMI] Continual Learning Using Bayesian Neural Networks [[paper](https://arxiv.org/abs/1910.04112)]
 
 - <a name='todo'></a> [2020 PRL] Faster ILOD Incremental Learning for Object Detectors based on Faster RCNN [[paper](https://arxiv.org/abs/2003.03901)]
 
@@ -618,11 +618,11 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 NeurIPS] RATT Recurrent Attention to Transient Tasks for Continual Image Captioning [[paper](https://openreview.net/forum?id=DlhyudbShm)]
 
-- <a name='todo'></a> [2020 NeurIPS] Organizing recurrent network dynamics by task-computation to enable continual learning [[paper](None)]
+- <a name='todo'></a> [2020 NeurIPS] Organizing recurrent network dynamics by task-computation to enable continual learning [[paper](https://dl.acm.org/doi/10.5555/3495724.3496930)]
 
-- <a name='todo'></a> [2020 NeurIPS] Online Fast Adaptation and Knowledge Accumulation (OSAKA) a New Approach to Continual Learning [[paper](None)]
+- <a name='todo'></a> [2020 NeurIPS] Online Fast Adaptation and Knowledge Accumulation (OSAKA) a New Approach to Continual Learning [[paper](https://arxiv.org/abs/2003.05856)]
 
-- <a name='todo'></a> [2020 NeurIPS] Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization [[paper](None)]
+- <a name='todo'></a> [2020 NeurIPS] Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization [[paper](https://dl.acm.org/doi/abs/10.5555/3495724.3497189)]
 
 - <a name='todo'></a> [2020 NeurIPS] Meta-Consolidation for Continual Learning [[paper](https://arxiv.org/abs/2010.00352)]
 
@@ -631,6 +631,40 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 - <a name='todo'></a> [2020 NeurIPS] La-MAML_ Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
 
 - <a name='todo'></a> [2020 NeurIPS] GAN Memory with No Forgetting [[paper](https://arxiv.org/abs/2006.07543)]
+
+- <a name='todo'></a> [2020 NeurIPS] Dark Experience for General Continual Learning a Strong, Simple Baseline [[paper](https://arxiv.org/abs/2004.07211)]
+
+- <a name='todo'></a> [2020 NeurIPS] Coresets via Bilevel Optimization for Continual Learning and Streaming [[paper](https://arxiv.org/abs/2006.03875)]
+
+- <a name='todo'></a> [2020 NeurIPS] Continual Learning with Node-Importance based Adaptive Group Sparse Regularization [[paper](https://arxiv.org/abs/2003.13726)]
+
+- <a name='todo'></a> [2020 NeurIPS] Continual Learning of Control Primitives Skill Discovery via Reset-Games [[paper](https://arxiv.org/abs/2011.05286)]
+
+- <a name='todo'></a> [2020 NeurIPS] Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks [[paper](https://arxiv.org/abs/2112.10017)]
+
+- <a name='todo'></a> [2020 NeurIPS] Continual Learning in Low-rank Orthogonal Subspaces [[paper](https://arxiv.org/abs/2010.11635)]
+
+- <a name='todo'></a> [2020 NeurIPS] Continual Deep Learning by Functional Regularisation of Memorable Past [[paper](https://openreview.net/pdf?id=ib_vapuIazp)]
+
+- <a name='todo'></a> [2020 NeurIPS] Calibrating CNNs for Lifelong Learning [[paper](https://dl.acm.org/doi/abs/10.5555/3495724.3497031)]
+
+- <a name='todo'></a> [2020 Nat Comm] Brain-inspired replay for continual learning with artificial neural networks [[paper](https://www.nature.com/articles/s41467-020-17866-2)]
+
+- <a name='todo'></a> [2020 IJCNN] OvA-INN Continual Learning with Invertible Neural Networks [[paper](https://ieeexplore.ieee.org/document/9206766/)]
+
+- <a name='todo'></a> [2020 ICML] XtarNet Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning [[paper](https://arxiv.org/abs/2003.08561)]
+
+- <a name='todo'></a> [2020 ICML] Optimal Continual Learning has Perfect Memory and is NP-HARD [[paper](https://arxiv.org/abs/2006.05188)]
+
+- <a name='todo'></a> [2020 ICML] Online Learned Continual Compression with Adaptive Quantization Modules [[paper](https://arxiv.org/abs/1911.08019)]
+
+- <a name='todo'></a> [2020 ICML] Online Continual Learning from Imbalanced Data [[paper](https://dl.acm.org/doi/10.5555/3524938.3525120)]
+
+- <a name='todo'></a> [2020 ICML] Neural Topic Modeling with Continual Lifelong Learning [[paper](https://arxiv.org/abs/2006.10909)]
+
+- <a name='todo'></a> [2020 ICMLW] Wandering Within a World Online Contextualized Few-Shot Learning [[paper](https://openreview.net/pdf/798a88cd0aefedd9aab888bc91f17fb86841e232.pdf)]
+
+
 
 ### 2019
 
