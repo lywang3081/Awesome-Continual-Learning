@@ -604,6 +604,8 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 WACV] ScaIL Classifier Weights Scaling for Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9093562/)]
 
+### 2020
+
 - <a name='todo'></a> [2020 WACV] Class-incremental Learning via Deep Model Consolidation [[paper](https://arxiv.org/abs/1903.07864)]
 
 - <a name='todo'></a> [2020 TPAMI] RPSNet An Adaptive Random Path Selection Approach for Incremental Learning [[paper](None)]
@@ -627,11 +629,6 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 - <a name='todo'></a> [2020 NeurIPS] Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting [[paper](https://arxiv.org/abs/2007.07011)]
 
 - <a name='todo'></a> [2020 NeurIPS] La-MAML_ Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
-
-
-
-
-### 2020
 
 ### 2019
 
