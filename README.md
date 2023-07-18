@@ -52,21 +52,21 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> **[2022 WACV]** Knowledge Capture and Replay for Continual Learning [[paper](https://arxiv.org/abs/2012.06789)]
 
-- <a name='todo'></a> **[2022 WACV]** FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning [[paper](https://arxiv.org/abs/2211.13131)]
+- <a name='todo'></a> **[2022 WACV]** FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning [[paper](https://arxiv.org/abs/2211.13131)][[code](https://github.com/gregoirepetit/fetril)]
 
-- <a name='todo'></a> **[2022 WACV]** Dataset Knowledge Transfer for Class-Incremental Learning without Memory [[paper](https://arxiv.org/abs/2110.08421)]
+- <a name='todo'></a> **[2022 WACV]** Dataset Knowledge Transfer for Class-Incremental Learning without Memory [[paper](https://arxiv.org/abs/2110.08421)][[code](https://github.com/habibslim/dkt-for-cil)]
 
-- <a name='todo'></a> **[2022 TPAMI]** Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation [[paper](https://arxiv.org/abs/2203.14098)]
+- <a name='todo'></a> **[2022 TPAMI]** Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation [[paper](https://arxiv.org/abs/2203.14098)][[code](https://github.com/ygjwd12345/UCD)]
 
 - <a name='todo'></a> **[2022 TPAMI]** MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2006.15524)]
 
-- <a name='todo'></a> **[2022 TPAMI]** Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks [[paper](https://arxiv.org/abs/2203.17030)]
+- <a name='todo'></a> **[2022 TPAMI]** Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks [[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 
-- <a name='todo'></a> **[2022 TPAMI]** Class-Incremental Continual Learning into the eXtended DER-verse [[paper](https://arxiv.org/abs/2201.00766)]
+- <a name='todo'></a> **[2022 TPAMI]** Class-Incremental Continual Learning into the eXtended DER-verse [[paper](https://arxiv.org/abs/2201.00766)][[code](https://github.com/aimagelab/mammoth)]
 
 - <a name='todo'></a> **[2022 TNNLS]** Self-Training for Class-Incremental Semantic Segmentation [[paper](https://arxiv.org/abs/2012.03362)]
 
-- <a name='todo'></a> **[2022 PRL]** Continual Semi-Supervised Learning through Contrastive Interpolation Consistency  [[paper](https://arxiv.org/abs/2108.06552)]
+- <a name='todo'></a> **[2022 PRL]** Continual Semi-Supervised Learning through Contrastive Interpolation Consistency [[paper](https://arxiv.org/abs/2108.06552)][[code](https://github.com/loribonna/cssl)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Task-Free Continual Learning via Online Discrepancy Distance Learning [[paper](https://arxiv.org/abs/2210.06579)]
 
