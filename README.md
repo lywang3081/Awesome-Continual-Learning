@@ -630,6 +630,8 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 NeurIPS] La-MAML_ Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
 
+- <a name='todo'></a> [2020 NeurIPS] GAN Memory with No Forgetting [[paper](https://arxiv.org/abs/2006.07543)]
+
 ### 2019
 
 ### 2018
