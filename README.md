@@ -866,7 +866,7 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> **[2019 NeurIPS]** Incremental Few-Shot Learning with Attention Attractor Networks [[paper](https://arxiv.org/abs/1810.07218)]
 
-- <a name='todo'></a> [2019 Nat Mat Int] Continual learning of context-dependent processing in neural networks [[paper](https://arxiv.org/abs/1810.01256)]
+- <a name='todo'></a> **[2019 Nat Mat Int]** Continual learning of context-dependent processing in neural networks [[paper](https://arxiv.org/abs/1810.01256)]
 
 - <a name='todo'></a> **[2019 NAACL]** Continual Learning for Sentence Representations Using Conceptors [[paper](https://aclanthology.org/N19-1331/)]
 
