@@ -70,13 +70,13 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> **[2022 NeurIPS]** Task-Free Continual Learning via Online Discrepancy Distance Learning [[paper](https://arxiv.org/abs/2210.06579)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** SparCL Sparse Continual Learning on the Edge [[paper](https://arxiv.org/abs/2209.09476)]
+- <a name='todo'></a> **[2022 NeurIPS]** SparCL Sparse Continual Learning on the Edge [[paper](https://arxiv.org/abs/2209.09476)][[code](https://github.com/neu-spiral/SparCL)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** S-Prompts Learning with Pre-trained Transformers An Occam’s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)]
+- <a name='todo'></a> **[2022 NeurIPS]** S-Prompts Learning with Pre-trained Transformers An Occam’s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)][[code1](https://github.com/g-u-n/pycil)/[code2](https://github.com/iamwangyabin/s-prompts)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Retrospective Adversarial Replay for Continual Learning [[paper](https://openreview.net/forum?id=XEoih0EwCwL)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** Repeated Augmented Rehearsal A Simple but Strong Baseline for Online Continual Learning [[paper](https://arxiv.org/abs/2209.13917)]
+- <a name='todo'></a> **[2022 NeurIPS]** Repeated Augmented Rehearsal: A Simple but Strong Baseline for Online Continual Learning [[paper](https://arxiv.org/abs/2209.13917)][[code](https://github.com/yaqianzhang/repeatedaugmentedrehearsal)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning [[paper](https://arxiv.org/abs/2210.06443)]
 
