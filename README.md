@@ -806,15 +806,15 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 CVPRW] Dropout as an Implicit Gating Mechanism For Continual Learning [[paper](https://arxiv.org/abs/2004.11545)]
 
-- <a name='todo'></a> [2020 CVPRW] Continual Reinforcement Learning in 3D Non-stationary Environments [[paper](None)]
+- <a name='todo'></a> [2020 CVPRW] Continual Reinforcement Learning in 3D Non-stationary Environments [[paper](https://arxiv.org/abs/1905.10112)]
 
-- <a name='todo'></a> [2020 CVPRW] Continual Learning of Object Instances [[paper](None)]
+- <a name='todo'></a> [2020 CVPRW] Continual Learning of Object Instances [[paper](https://arxiv.org/abs/2004.10862)]
 
-- <a name='todo'></a> [2020 CVPRW] Continual Learning for Anomaly Detection in Surveillance Videos [[paper](None)]
+- <a name='todo'></a> [2020 CVPRW] Continual Learning for Anomaly Detection in Surveillance Videos [[paper](https://arxiv.org/abs/2004.07941)]
 
 - <a name='todo'></a> [2020 CVPRW] Cognitively-Inspired Model for Incremental Learning Using a Few Examples [[paper](https://ieeexplore.ieee.org/document/9150667/)]
 
-- <a name='todo'></a> [2020 CVPRW] CatNet Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition [[paper](None)]
+- <a name='todo'></a> [2020 CVPRW] CatNet Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition [[paper](https://arxiv.org/abs/2004.09215)]
 
 - <a name='todo'></a> [2020 COLING] Investigating Catastrophic Forgetting During Continual Training for Neural Machine Translation [[paper](https://aclanthology.org/2020.coling-main.381/)]
 
@@ -822,7 +822,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing_ A Survey [[paper](https://aclanthology.org/2020.coling-main.574/)]
 
-- <a name='todo'></a> [2020 COLING] A Two-phase Prototypical Network Model for Incremental Few-shot Relation Classification [[paper](None)]
+- <a name='todo'></a> [2020 COLING] A Two-phase Prototypical Network Model for Incremental Few-shot Relation Classification [[paper](https://aclanthology.org/2020.coling-main.142/)]
 
 - <a name='todo'></a> [2020 BMVC] Initial Classifier Weights Replay for Memoryless Class Incremental Learning [[paper](https://arxiv.org/abs/2008.13710)]
 
@@ -834,21 +834,21 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 AAAI] Overcoming Catastrophic Forgetting by Neuron-Level Plasticity Control [[paper](https://arxiv.org/pdf/1907.13322)]
 
-- <a name='todo'></a> [2020 AAAI] Learning from the Past_ Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](None)]
+- <a name='todo'></a> [2020 AAAI] Learning from the Past_ Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://doi.org/10.1609/aaai.v34i04.5942)]
 
 - <a name='todo'></a> [2020 AAAI] Generative Continual Concept Learning [[paper](https://arxiv.org/abs/1906.03744)]
 
-- <a name='todo'></a> [2020 AAAI] ERNIE 2.0_ A Continual Pre-Training Framework for Language Understanding [[paper](None)]
+- <a name='todo'></a> [2020 AAAI] ERNIE 2.0_ A Continual Pre-Training Framework for Language Understanding [[paper](https://doi.org/10.1609/aaai.v34i05.6428)]
 
-- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning_ Learning ‘New’ While Consolidating ‘Known’ [[paper](None)]
+- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning_ Learning ‘New’ While Consolidating ‘Known’ [[paper](https://doi.org/10.1609/aaai.v34i04.6060)]
 
 ### 2019
 
 - <a name='todo'></a> [2019 NIPS] Uncertainty-based Continual Learning with Adaptive Regularization [[paper](https://arxiv.org/abs/1905.11614)]
 
-- <a name='todo'></a> [2019 NIPS] RPSNet Random Path Selection for Incremental Learning [[paper](None)]
+- <a name='todo'></a> [2019 NIPS] RPSNet Random Path Selection for Incremental Learning [[paper](https://arxiv.org/abs/1906.01120v2)]
  
-- <a name='todo'></a> [2019 NIPS] Reconciling meta-learning and continual learning with online mixtures of tasks [[paper](None)]
+- <a name='todo'></a> [2019 NIPS] Reconciling meta-learning and continual learning with online mixtures of tasks [[paper](https://arxiv.org/abs/1812.06080)]
 
 ### 2019
 
