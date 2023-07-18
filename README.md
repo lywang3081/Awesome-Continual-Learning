@@ -78,29 +78,29 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> **[2022 NeurIPS]** Repeated Augmented Rehearsal: A Simple but Strong Baseline for Online Continual Learning [[paper](https://arxiv.org/abs/2209.13917)][[code](https://github.com/yaqianzhang/repeatedaugmentedrehearsal)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning [[paper](https://arxiv.org/abs/2210.06443)]
+- <a name='todo'></a> **[2022 NeurIPS]** On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning [[paper](https://arxiv.org/abs/2210.06443)][[code](https://github.com/aimagelab/lider)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting [[paper](https://arxiv.org/abs/2206.00761)]
+- <a name='todo'></a> **[2022 NeurIPS]** On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting [[paper](https://arxiv.org/abs/2206.00761)][[code](https://github.com/naver/gdc)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Memory Efficient Continual Learning with Transformers [[paper](https://arxiv.org/abs/2203.04640)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation [[paper](https://arxiv.org/abs/2210.04524)]
+- <a name='todo'></a> **[2022 NeurIPS]** Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation [[paper](https://arxiv.org/abs/2210.04524)][[code](https://github.com/zoilsen/clom)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Lifelong Neural Predictive Coding: Learning Cumulatively Online without Forgetting [[paper](https://arxiv.org/abs/1905.10696)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning [[paper](https://openreview.net/forum?id=c0l2YolqD2T)]
+- <a name='todo'></a> **[2022 NeurIPS]** How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning [[paper](https://openreview.net/forum?id=c0l2YolqD2T)][[code](https://github.com/neuroailab/VisualLearningBenchmarks)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Few-Shot Continual Active Learning by a Robot [[paper](https://arxiv.org/abs/2210.04137)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** Exploring Example Influence in Continual Learning [[paper](https://arxiv.org/abs/2209.12241)]
+- <a name='todo'></a> **[2022 NeurIPS]** Exploring Example Influence in Continual Learning [[paper](https://arxiv.org/abs/2209.12241)][[code](https://github.com/sssunqing/example_influence_cl)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Disentangling Transfer in Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2209.13900)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** Continual Learning In Environments With Polynomial Mixing Times [[paper](https://arxiv.org/abs/2112.07066)]
+- <a name='todo'></a> **[2022 NeurIPS]** Continual Learning In Environments With Polynomial Mixing Times [[paper](https://arxiv.org/abs/2112.07066)][[code](https://github.com/sharathraparthy/polynomial-mixing-times)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** Continual learning a feature extraction formalization, an efficient algorithm, and fundamental obstructions [[paper](https://arxiv.org/abs/2203.14383)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** CLiMB A Continual Learning Benchmark for Vision-and-Language Tasks [[paper](https://arxiv.org/abs/2206.09059)]
+- <a name='todo'></a> **[2022 NeurIPS]** CLiMB A Continual Learning Benchmark for Vision-and-Language Tasks [[paper](https://arxiv.org/abs/2206.09059)][[code](https://github.com/glamor-usc/climb)]
 
 - <a name='todo'></a> **[2022 NeurIPS]** CGLB Benchmark Tasks for Continual Graph Learning [[paper](https://openreview.net/forum?id=5wNiiIDynDF)]
 
@@ -108,11 +108,11 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> **[2022 NeurIPS]** ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation [[paper](https://arxiv.org/abs/2210.06816)]
 
-- <a name='todo'></a> **[2022 NeurIPS]** A Theoretical Study on Solving Continual Learning [[paper](https://arxiv.org/abs/2211.02633)]
+- <a name='todo'></a> **[2022 NeurIPS]** A Theoretical Study on Solving Continual Learning [[paper](https://arxiv.org/abs/2211.02633)][[code](https://github.com/k-gyuhak/wptp)]
 
-- <a name='todo'></a> **[2022 NeurIPSW]** A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning [[paper](https://arxiv.org/abs/2210.04428)]
+- <a name='todo'></a> **[2022 NeurIPSW]** A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning [[paper](https://arxiv.org/abs/2210.04428)][[code](https://github.com/pauljanson002/pretrained-cl)]
 
-- <a name='todo'></a> [2022 Neural Networks] Efficient Perturbation Inference and Expandable Network for Continual Learning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022004269)]
+- <a name='todo'></a> **[2022 Neural Networks]** Efficient Perturbation Inference and Expandable Network for Continual Learning [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022004269)]
 
 - <a name='todo'></a> **[2022 NAACL]** Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation [[paper](https://aclanthology.org/2022.naacl-main.398.pdf)]
 
