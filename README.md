@@ -706,21 +706,21 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 ICMLW] A General Framework for Continual Learning of Compositional Structures [[paper](https://www.cis.upenn.edu/~eeaton/papers/Mendez2020General.pdf)]
 
-- <a name='todo'></a> [2020 ICLR] UNCERTAINTY-GUIDED CONTINUAL LEARNING WITH BAYESIAN NEURAL NETWORKS [[paper](https://openreview.net/pdf?id=HklUCCVKDB)]
+- <a name='todo'></a> [2020 ICLR] Uncertainty-guided Continual Learning with Bayesian Neural Networks [[paper](https://openreview.net/pdf?id=HklUCCVKDB)]
 
-- <a name='todo'></a> [2020 ICLR] SCALABLE AND ORDER-ROBUST CONTINUAL LEARNING WITH ADDITIVE PARAMETER DECOMPOSITION [[paper](https://arxiv.org/abs/1902.09432)]
+- <a name='todo'></a> [2020 ICLR] Scalable and Order-robust Continual Learning with Additive Parameter Decomposition [[paper](https://arxiv.org/abs/1902.09432)]
 
-- <a name='todo'></a> [2020 ICLR] FUNCTIONAL REGULARISATION FOR CONTINUAL LEARNING WITH GAUSSIAN PROCESSES [[paper](https://arxiv.org/abs/1901.11356)]
+- <a name='todo'></a> [2020 ICLR] Functional Regularisation for Continual Learning with Gaussian Processes [[paper](https://arxiv.org/abs/1901.11356)]
 
-- <a name='todo'></a> [2020 ICLR] CONTINUAL LEARNING WITH HYPERNETWORKS [[paper](https://openreview.net/pdf?id=SJgwNerKvB)]
+- <a name='todo'></a> [2020 ICLR] Continual Learning with Hypernetworks [[paper](https://openreview.net/pdf?id=SJgwNerKvB)]
 
 - <a name='todo'></a> [2020 ICLR] CONTINUAL LEARNING WITH BAYESIAN NEURAL NETWORKS FOR NON-STATIONARY DATA [[paper](https://openreview.net/forum?id=SJlsFpVtDB)]
 
-- <a name='todo'></a> [2020 ICLR] CONTINUAL LEARNING WITH ADAPTIVE WEIGHTS (CLAW) [[paper](https://arxiv.org/abs/1911.09514)]
+- <a name='todo'></a> [2020 ICLR] Continual Learning with Adaptive Weights (CLAW) [[paper](https://arxiv.org/abs/1911.09514)]
 
-- <a name='todo'></a> [2020 ICLR] COMPOSITIONAL LANGUAGE CONTINUAL LEARNING [[paper](https://openreview.net/pdf?id=rklnDgHtDS)]
+- <a name='todo'></a> [2020 ICLR] Compositional Language Continual Learning [[paper](https://openreview.net/pdf?id=rklnDgHtDS)]
 
-- <a name='todo'></a> [2020 ICLR] A NEURAL DIRICHLET PROCESS MIXTURE MODEL FOR TASK-FREE CONTINUAL LEARNING [[paper](https://arxiv.org/abs/2001.00689)]
+- <a name='todo'></a> [2020 ICLR] A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning [[paper](https://arxiv.org/abs/2001.00689)]
 
 - <a name='todo'></a> [2020 EMNLP] Visually Grounded Continual Learning of Compositional Phrases [[paper](https://aclanthology.org/2020.emnlp-main.158/)]
 
