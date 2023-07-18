@@ -21,21 +21,21 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 NMI] Biological underpinnings for lifelong learning machines [[paper](https://www.nature.com/articles/s42256-022-00452-0)]
 
-- <a name='todo'></a> [2022 Neurocomputing] Online Continual Learning in Image Classification_ An Empirical Survey [[paper](https://arxiv.org/abs/2101.10423)]
+- <a name='todo'></a> [2022 Neurocomputing] Online Continual Learning in Image Classification: An Empirical Survey [[paper](https://arxiv.org/abs/2101.10423)]
 
 - <a name='todo'></a> [2022 JAIR] Towards Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2012.13490)]
 
-- <a name='todo'></a> [2021 arXiv] Recent Advances of Continual Learning in Computer Vision_ An Overview [[paper](https://arxiv.org/abs/2109.11369)]
+- <a name='todo'></a> [2021 arXiv] Recent Advances of Continual Learning in Computer Vision: An Overview [[paper](https://arxiv.org/abs/2109.11369)]
 
-- <a name='todo'></a> [2021 TPAMI] A continual learning survey_ Defying forgetting in classification tasks [[paper](https://arxiv.org/abs/1909.08383)]
+- <a name='todo'></a> [2021 TPAMI] A continual learning survey: Defying forgetting in classification tasks [[paper](https://arxiv.org/abs/1909.08383)]
 
-- <a name='todo'></a> [2021 Neural Computation] Replay in Deep Learning_ Current Approaches and Missing Biological Elements [[paper](https://arxiv.org/abs/2104.04132)]
+- <a name='todo'></a> [2021 Neural Computation] Replay in Deep Learning: Current Approaches and Missing Biological Elements [[paper](https://arxiv.org/abs/2104.04132)]
 
-- <a name='todo'></a> [2020 Trends in Cognitive Sciences] Embracing Change_ Continual Learning in Deep Neural Networks [[paper](https://www.sciencedirect.com/science/article/pii/S1364661320302199)]
+- <a name='todo'></a> [2020 Trends in Cognitive Sciences] Embracing Change: Continual Learning in Deep Neural Networks [[paper](https://www.sciencedirect.com/science/article/pii/S1364661320302199)]
 
 - <a name='todo'></a> [2020 TPAMI] Class-incremental learning survey and performance evaluation on image classification [[paper](https://arxiv.org/abs/2010.15277)]
 
-- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing_ A Survey [[paper](https://arxiv.org/abs/2012.09823)]
+- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing: A Survey [[paper](https://arxiv.org/abs/2012.09823)]
   
 - <a name="todo"></a> [2019 Neural Networks] Continual Lifelong Learning with Neural Networks: A Review [[paper](https://arxiv.org/abs/1802.07569)]
 
@@ -72,7 +72,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 NeurIPS] SparCL Sparse Continual Learning on the Edge [[paper](https://arxiv.org/abs/2209.09476)]
 
-- <a name='todo'></a> [2022 NeurIPS] S-Prompts Learning with Pre-trained Transformers An Occam’s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)]
+- <a name='todo'></a> [2022 NeurIPS] S-Prompts Learning with Pre-trained Transformers An Occam��s Razor for Domain Incremental Learning [[paper](https://arxiv.org/abs/2207.12819)]
 
 - <a name='todo'></a> [2022 NeurIPS] Retrospective Adversarial Replay for Continual Learning [[paper](https://openreview.net/forum?id=XEoih0EwCwL)]
 
@@ -122,15 +122,15 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 MM] Class Gradient Projection For Continual Learning [[paper](https://doi.org/10.1145/3503161.3548054)]
 
-- <a name='todo'></a> [2022 IJCAI] Learning from Students_ Online Contrastive Distillation Network for General Continual Learning [[paper](https://doi.org/10.24963/ijcai.2022/446)]
+- <a name='todo'></a> [2022 IJCAI] Learning from Students: Online Contrastive Distillation Network for General Continual Learning [[paper](https://doi.org/10.24963/ijcai.2022/446)]
 
-- <a name='todo'></a> [2022 IJCAI] DyGRAIN_ An Incremental Learning Framework for Dynamic Graphs [[paper](https://doi.org/10.24963/ijcai.2022/438)]
+- <a name='todo'></a> [2022 IJCAI] DyGRAIN: An Incremental Learning Framework for Dynamic Graphs [[paper](https://doi.org/10.24963/ijcai.2022/438)]
 
 - <a name='todo'></a> [2022 IJCAI] Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal [[paper](https://doi.org/10.24963/ijcai.2022/177)]
 
 - <a name='todo'></a> [2022 IJCAI] Continual Federated Learning Based on Knowledge Distillation [[paper](https://doi.org/10.24963/ijcai.2022/303)]
 
-- <a name='todo'></a> [2022 IJCAI] CERT_ Continual Pre-Training on Sketches for Library-Oriented Code Generation [[paper](https://doi.org/10.24963/ijcai.2022/329)]
+- <a name='todo'></a> [2022 IJCAI] CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation [[paper](https://doi.org/10.24963/ijcai.2022/329)]
 
 - <a name='todo'></a> [2022 ICPR] Effects of Auxiliary Knowledge on Continual Learning [[paper](https://arxiv.org/abs/2206.02577v1)]
 
@@ -138,13 +138,13 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ICML] Wide Neural Networks Forget Less Catastrophically [[paper](https://arxiv.org/abs/2110.11526)]
 
-- <a name='todo'></a> [2022 ICML] VariGrow_ Variational Architecture Growing for Task-Agnostic Continual Learning based on Bayesian Novelty [[paper](https://proceedings.mlr.press/v162/ardywibowo22a.html)]
+- <a name='todo'></a> [2022 ICML] VariGrow: Variational Architecture Growing for Task-Agnostic Continual Learning based on Bayesian Novelty [[paper](https://proceedings.mlr.press/v162/ardywibowo22a.html)]
 
 - <a name='todo'></a> [2022 ICML] Proving Theorems using Incremental Learning and Hindsight Experience Replay [[paper](https://arxiv.org/abs/2112.10664)]
 
 - <a name='todo'></a> [2022 ICML] Online Continual Learning through Mutual Information Maximization [[paper](https://proceedings.mlr.press/v162/guo22g.html)]
 
-- <a name='todo'></a> [2022 ICML] NISPA_ Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks [[paper](https://arxiv.org/abs/2206.09117)]
+- <a name='todo'></a> [2022 ICML] NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks [[paper](https://arxiv.org/abs/2206.09117)]
 
 - <a name='todo'></a> [2022 ICML] Improving Task-free Continual Learning by Distributionally Robust Memory Evolution [[paper](https://arxiv.org/abs/2207.07256)]
 
@@ -172,7 +172,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ICLR] New Insights on Reducing Abrupt Representation Change in Online Continual Learning [[paper](https://arxiv.org/abs/2104.05025)]
 
-- <a name='todo'></a> [2022 ICLR] Model Zoo A Growing “Brain” That Learns Continually [[paper](https://arxiv.org/abs/2106.03027)]
+- <a name='todo'></a> [2022 ICLR] Model Zoo A Growing ��Brain�� That Learns Continually [[paper](https://arxiv.org/abs/2106.03027)]
 
 - <a name='todo'></a> [2022 ICLR] Memory Replay with Data Compression for Continual Learning [[paper](https://arxiv.org/abs/2202.06592)]
 
@@ -188,7 +188,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ICLR] How Well Does Self-Supervised Pre-Training Perform with Streaming Data? [[paper](https://arxiv.org/abs/2104.12081)]
 
-- <a name='todo'></a> [2022 ICLR] Effect of Scale on Catastrophic Forgetting in Neural Networks [[paper](https://openreview.net/forum?id=GhVS8_yPeEa)]
+- <a name='todo'></a> [2022 ICLR] Effect of Scale on Catastrophic Forgetting in Neural Networks [[paper](https://openreview.net/forum?id=GhVS8:yPeEa)]
 
 - <a name='todo'></a> [2022 ICLR] Continual Normalization: Rethinking Batch Normalization for Online Continual Learning [[paper](https://arxiv.org/abs/2203.16102)]
 
@@ -212,7 +212,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ECCV] Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation [[paper](https://arxiv.org/abs/2207.10856)]
 
-- <a name='todo'></a> [2022 ECCV] Online Task-free Continual Learning with Dynamic Sparse Distributed Memory [[paper](https://doi.org/10.1007/978-3-031-19806-9_42)]
+- <a name='todo'></a> [2022 ECCV] Online Task-free Continual Learning with Dynamic Sparse Distributed Memory [[paper](https://doi.org/10.1007/978-3-031-19806-9:42)]
 
 - <a name='todo'></a> [2022 ECCV] Online Continual Learning with Contrastive Vision Transformer [[paper](https://arxiv.org/abs/2207.13516)]
 
@@ -226,9 +226,9 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ECCV] Incremental Task Learning with Incremental Rank Updates [[paper](https://arxiv.org/abs/2207.09074)]
 
-- <a name='todo'></a> [2022 ECCV] incDFM Incremental Deep Feature Modeling for Continual Novelty Detection [[paper](https://doi.org/10.1007/978-3-031-19806-9_34)]
+- <a name='todo'></a> [2022 ECCV] incDFM Incremental Deep Feature Modeling for Continual Novelty Detection [[paper](https://doi.org/10.1007/978-3-031-19806-9:34)]
 
-- <a name='todo'></a> [2022 ECCV] Helpful or Harmful Inter-Task Association in Continual Learning [[paper](https://doi.org/10.1007/978-3-031-20083-0_31)]
+- <a name='todo'></a> [2022 ECCV] Helpful or Harmful Inter-Task Association in Continual Learning [[paper](https://doi.org/10.1007/978-3-031-20083-0:31)]
 
 - <a name='todo'></a> [2022 ECCV] Generative Negative Text Replay for Continual Vision-Language Pretraining [[paper](https://arxiv.org/abs/2210.17322)]
 
@@ -250,7 +250,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ECCV] Balancing Stability and Plasticity through Advanced Null Space in Continual Learning [[paper](https://arxiv.org/abs/2207.12061)]
 
-- <a name='todo'></a> [2022 ECCV] Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning [[paper](https://doi.org/10.1007/978-3-031-19809-0_21)]
+- <a name='todo'></a> [2022 ECCV] Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning [[paper](https://doi.org/10.1007/978-3-031-19809-0:21)]
 
 - <a name='todo'></a> [2022 ECCV] Anti-Retroactive Interference for Lifelong Learning [[paper](https://arxiv.org/abs/2208.12967)]
 
@@ -322,13 +322,13 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 CVIU] Balanced softmax cross-entropy for incremental learning with and without memory [[paper](https://arxiv.org/abs/2103.12532)]
 
-- <a name='todo'></a> [2022 COLING] Incremental Prompting_ Episodic Memory Prompt for Lifelong Event Detection [[paper](https://arxiv.org/abs/2204.07275)]
+- <a name='todo'></a> [2022 COLING] Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection [[paper](https://arxiv.org/abs/2204.07275)]
 
 - <a name='todo'></a> [2022 COLING] Dynamic Dialogue Policy for Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2204.05928)]
 
 - <a name='todo'></a> [2022 COLING] Continual Few-shot Intent Detection [[paper](https://aclanthology.org/2022.coling-1.26/)]
 
-- <a name='todo'></a> [2022 ACL] Overcoming Catastrophic Forgetting beyond Continual Learning_ Balanced Training for Neural Machine Translation [[paper](https://arxiv.org/abs/2203.03910)]
+- <a name='todo'></a> [2022 ACL] Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation [[paper](https://arxiv.org/abs/2203.03910)]
 
 - <a name='todo'></a> [2022 ACL] Few-Shot Class-Incremental Learning for Named Entity Recognition [[paper](https://aclanthology.org/2022.acl-long.43/)]
 
@@ -340,7 +340,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2022 ACL] Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation [[paper](https://arxiv.org/abs/2203.02135)]
 
-- <a name='todo'></a> [2022 ACL] ConTinTin_ Continual Learning from Task Instructions [[paper](https://arxiv.org/abs/2203.08512)]
+- <a name='todo'></a> [2022 ACL] ConTinTin: Continual Learning from Task Instructions [[paper](https://arxiv.org/abs/2203.08512)]
 
 - <a name='todo'></a> [2022 AAAI] Static-Dynamic Co-teaching for Class-Incremental 3D Object Detection [[paper](https://arxiv.org/abs/2112.07241)]
 
@@ -394,7 +394,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 NeurIPS] DualNet Continual Learning, Fast and Slow [[paper](https://arxiv.org/abs/2110.00175)]
 
-- <a name='todo'></a> [2021 NeurIPS] Continual World_ A Robotic Benchmark For Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2105.10919)]
+- <a name='todo'></a> [2021 NeurIPS] Continual World: A Robotic Benchmark For Continual Reinforcement Learning [[paper](https://arxiv.org/abs/2105.10919)]
 
 - <a name='todo'></a> [2021 NeurIPS] Continual Learning via Local Module Composition [[paper](https://arxiv.org/abs/2111.07736)]
 
@@ -422,19 +422,19 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 MM] Video Transformer for Deepfake Detection with Incremental Learning [[paper](https://arxiv.org/abs/2108.05307)]
 
-- <a name='todo'></a> [2021 MM] Remember and Reuse_ Cross-Task Blind Image Quality Assessment via Relevance-aware Incremental Learning [[paper](https://doi.org/10.1145/3474085.3475642)]
+- <a name='todo'></a> [2021 MM] Remember and Reuse: Cross-Task Blind Image Quality Assessment via Relevance-aware Incremental Learning [[paper](https://doi.org/10.1145/3474085.3475642)]
 
 - <a name='todo'></a> [2021 MM] Co-Transport for Class-Incremental Learning [[paper](https://arxiv.org/abs/2107.12654)]
 
 - <a name='todo'></a> [2021 MM] An EM Framework for Online Incremental Learning of Semantic Segmentation [[paper](https://arxiv.org/abs/2108.03613)]
 
-- <a name='todo'></a> [2021 IJCAI] TrafficStream_ A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning [[paper](https://arxiv.org/abs/2106.06273)]
+- <a name='todo'></a> [2021 IJCAI] TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning [[paper](https://arxiv.org/abs/2106.06273)]
 
 - <a name='todo'></a> [2021 IJCAI] Learning with Selective Forgetting [[paper](https://doi.org/10.24963/ijcai.2021/137)]
 
 - <a name='todo'></a> [2021 IJCAI] Knowledge Consolidation based Class Incremental Online Learning with Limited Data [[paper](https://arxiv.org/abs/2106.06795)]
 
-- <a name='todo'></a> [2021 IJCAI] FedSpeech_ Federated Text-to-Speech with Continual Learning [[paper](https://arxiv.org/abs/2110.07216)]
+- <a name='todo'></a> [2021 IJCAI] FedSpeech: Federated Text-to-Speech with Continual Learning [[paper](https://arxiv.org/abs/2110.07216)]
 
 - <a name='todo'></a> [2021 ICPR] Semi-Supervised Class Incremental Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9413225)]
 
@@ -460,7 +460,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 ICLR] Gradient Projection Memory for Continual Learning [[paper](https://arxiv.org/abs/2103.09762)]
 
-- <a name='todo'></a> [2021 ICLR] Generalized Variational Continual Learning [[paper](https://openreview.net/forum?id=_IM-AfFhna9)]
+- <a name='todo'></a> [2021 ICLR] Generalized Variational Continual Learning [[paper](https://openreview.net/forum?id=:IM-AfFhna9)]
 
 - <a name='todo'></a> [2021 ICLR] Efficient Continual Learning with Modular Networks and Task-Driven Priors [[paper](https://openreview.net/forum?id=EKV158tSfwv)]
 
@@ -470,7 +470,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 ICLR] Continual Learning in Recurrent Neural Networks [[paper](https://openreview.net/forum?id=8xeBUgD8u9)]
 
-- <a name='todo'></a> [2021 ICLR] Contextual Transformation Networks for Online Continual Learning [[paper](https://openreview.net/forum?id=zx_uX-BO7CH)]
+- <a name='todo'></a> [2021 ICLR] Contextual Transformation Networks for Online Continual Learning [[paper](https://openreview.net/forum?id=zx:uX-BO7CH)]
 
 - <a name='todo'></a> [2021 ICCV] Wanderlust Online Continual Object Detection in the Real World [[paper](https://arxiv.org/abs/2108.11005)]
 
@@ -506,9 +506,9 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2021 ICCV] Always Be Dreaming A New Approach for Data-Free Class-Incremental Learning [[paper](https://arxiv.org/abs/2106.09701)]
 
-- <a name='todo'></a> [2021 EMNLP] Total Recall_ a Customized Continual Learning Method for Neural Semantic Parsers [[paper](https://arxiv.org/abs/2109.05186)]
+- <a name='todo'></a> [2021 EMNLP] Total Recall: a Customized Continual Learning Method for Neural Semantic Parsers [[paper](https://arxiv.org/abs/2109.05186)]
 
-- <a name='todo'></a> [2021 EMNLP] ECONET_ Effective Continual Pretraining of Language Models for Event Temporal Reasoning [[paper](https://arxiv.org/abs/2012.15283)]
+- <a name='todo'></a> [2021 EMNLP] ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning [[paper](https://arxiv.org/abs/2012.15283)]
 
 - <a name='todo'></a> [2021 EMNLP] Continual Learning in Task-Oriented Dialogue Systems [[paper](https://arxiv.org/abs/2012.15504)]
 
@@ -628,7 +628,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 NeurIPS] Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting [[paper](https://arxiv.org/abs/2007.07011)]
 
-- <a name='todo'></a> [2020 NeurIPS] La-MAML_ Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
+- <a name='todo'></a> [2020 NeurIPS] La-MAML: Look-ahead Meta Learning for Continual Learning [[paper](https://arxiv.org/abs/2007.13904)]
 
 - <a name='todo'></a> [2020 NeurIPS] GAN Memory with No Forgetting [[paper](https://arxiv.org/abs/2006.07543)]
 
@@ -644,7 +644,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 NeurIPS] Continual Learning in Low-rank Orthogonal Subspaces [[paper](https://arxiv.org/abs/2010.11635)]
 
-- <a name='todo'></a> [2020 NeurIPS] Continual Deep Learning by Functional Regularisation of Memorable Past [[paper](https://openreview.net/pdf?id=ib_vapuIazp)]
+- <a name='todo'></a> [2020 NeurIPS] Continual Deep Learning by Functional Regularisation of Memorable Past [[paper](https://openreview.net/pdf?id=ib:vapuIazp)]
 
 - <a name='todo'></a> [2020 NeurIPS] Calibrating CNNs for Lifelong Learning [[paper](https://dl.acm.org/doi/abs/10.5555/3495724.3497031)]
 
@@ -728,7 +728,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 EMNLP] Continual Learning for Natural Language Generation in Task-oriented Dialog Systems [[paper](https://aclanthology.org/2020.findings-emnlp.310/)]
 
-- <a name='todo'></a> [2020 ECCV] Topology-Preserving Class-Incremental Learning [[paper](oi.org/10.1007/978-3-030-58529-7_16)]
+- <a name='todo'></a> [2020 ECCV] Topology-Preserving Class-Incremental Learning [[paper](oi.org/10.1007/978-3-030-58529-7:16)]
 
 - <a name='todo'></a> [2020 ECCV] Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks [[paper](https://arxiv.org/abs/1912.13503)]
 
@@ -742,7 +742,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 ECCV] Online Continual Learning under Extreme Memory Constraints [[paper](https://arxiv.org/abs/2008.01510)]
 
-- <a name='todo'></a> [2020 ECCV] More Classifiers, Less Forgetting A Generic Multi-classifier Paradigm for Incremental Learning [[paper](https://doi.org/10.1007/978-3-030-58574-7_42)]
+- <a name='todo'></a> [2020 ECCV] More Classifiers, Less Forgetting A Generic Multi-classifier Paradigm for Incremental Learning [[paper](https://doi.org/10.1007/978-3-030-58574-7:42)]
 
 - <a name='todo'></a> [2020 ECCV] Memory-Efficient Incremental Learning Through Feature Adaptation [[paper](https://arxiv.org/abs/2004.00713)]
 
@@ -782,7 +782,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 CVPR] Conditional Channel Gated Networks for Task-Aware Continual Learning [[paper](https://ieeexplore.ieee.org/document/9156310/)]
 
-- <a name='todo'></a> [2020 CVPRW] What is Happening Inside a Continual Learning Model_ A Representation-Based Evaluation of Representational Forgetting [[paper](https://ieeexplore.ieee.org/document/9150688)]
+- <a name='todo'></a> [2020 CVPRW] What is Happening Inside a Continual Learning Model: A Representation-Based Evaluation of Representational Forgetting [[paper](https://ieeexplore.ieee.org/document/9150688)]
 
 - <a name='todo'></a> [2020 CVPRW] Stream-51 Streaming Classification and Novelty Detection from Videos [[paper](https://ieeexplore.ieee.org/document/9150885)]
 
@@ -820,7 +820,7 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 COLING] Distill and Replay for Continual Language Learning [[paper](https://aclanthology.org/2020.coling-main.318/)]
 
-- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing_ A Survey [[paper](https://aclanthology.org/2020.coling-main.574/)]
+- <a name='todo'></a> [2020 COLING] Continual Lifelong Learning in Natural Language Processing: A Survey [[paper](https://aclanthology.org/2020.coling-main.574/)]
 
 - <a name='todo'></a> [2020 COLING] A Two-phase Prototypical Network Model for Incremental Few-shot Relation Classification [[paper](https://aclanthology.org/2020.coling-main.142/)]
 
@@ -834,13 +834,13 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
 
 - <a name='todo'></a> [2020 AAAI] Overcoming Catastrophic Forgetting by Neuron-Level Plasticity Control [[paper](https://arxiv.org/pdf/1907.13322)]
 
-- <a name='todo'></a> [2020 AAAI] Learning from the Past_ Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://doi.org/10.1609/aaai.v34i04.5942)]
+- <a name='todo'></a> [2020 AAAI] Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://doi.org/10.1609/aaai.v34i04.5942)]
 
 - <a name='todo'></a> [2020 AAAI] Generative Continual Concept Learning [[paper](https://arxiv.org/abs/1906.03744)]
 
-- <a name='todo'></a> [2020 AAAI] ERNIE 2.0_ A Continual Pre-Training Framework for Language Understanding [[paper](https://doi.org/10.1609/aaai.v34i05.6428)]
+- <a name='todo'></a> [2020 AAAI] ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding [[paper](https://doi.org/10.1609/aaai.v34i05.6428)]
 
-- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning_ Learning ‘New’ While Consolidating ‘Known’ [[paper](https://doi.org/10.1609/aaai.v34i04.6060)]
+- <a name='todo'></a> [2020 AAAI] Bi-Objective Continual Learning: Learning ��New�� While Consolidating ��Known�� [[paper](https://doi.org/10.1609/aaai.v34i04.6060)]
 
 ### 2019
 
@@ -850,11 +850,150 @@ This is the paper list of our paper ``A Comprehensive Survey of Continual Learni
  
 - <a name='todo'></a> [2019 NIPS] Reconciling meta-learning and continual learning with online mixtures of tasks [[paper](https://arxiv.org/abs/1812.06080)]
 
-### 2019
+- <a name='todo'></a> [2019 NIPS] Online Continual Learning with Maximally Interfered Retrieval [[paper](https://arxiv.org/abs/1908.04742)]
+
+- <a name='todo'></a> [2019 NIPS] Meta-Learning Representations for Continual Learning [[paper](https://arxiv.org/abs/1905.12588v1)]
+
+- <a name='todo'></a> [2019 NIPS] Incremental Few-Shot Learning with Attention Attractor Networks [[paper](https://arxiv.org/abs/1810.07218)]
+
+- <a name='todo'></a> [2019 NIPS] Gradient based sample selection for online continual learning [[paper](https://arxiv.org/abs/1903.08671)]
+
+- <a name='todo'></a> [2019 NIPS] Experience Replay for Continual Learning [[paper](https://arxiv.org/abs/1811.11682)]
+
+- <a name='todo'></a> [2019 NIPS] Episodic Memory in Lifelong Language Learning [[paper](https://arxiv.org/abs/1906.01076)]
+
+- <a name='todo'></a> [2019 NIPS] Compacting, Picking and Growing for Unforgetting Continual Learning [[paper](https://arxiv.org/abs/1910.06562)]
+
+- <a name='todo'></a> [2019 NeurIPS] Incremental Few-Shot Learning with Attention Attractor Networks [[paper](https://arxiv.org/abs/1810.07218)]
+
+- <a name='todo'></a> [2019 Nat Mat Int] Continual learning of context-dependent processing in neural networks [[paper](https://arxiv.org/abs/1810.01256)]
+
+- <a name='todo'></a> [2019 NAACL] Continual Learning for Sentence Representations Using Conceptors [[paper](https://aclanthology.org/N19-1331/)]
+
+- <a name='todo'></a> [2019 IJCAI] Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay [[paper](https://arxiv.org/pdf/1903.04566v2.pdf)]
+
+- <a name='todo'></a> [2019 ICML] Policy Consolidation for Continual Reinforcement Learning [[paper](https://arxiv.org/abs/1902.00255v2)]
+
+- <a name='todo'></a> [2019 ICML] Learn to Grow A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting [[paper](https://arxiv.org/abs/1904.00310)]
+
+- <a name='todo'></a> [2019 ICME] An End-to-End Architecture for Class-Incremental Object Detection with Knowledge Distillation [[paper](https://ieeexplore.ieee.org/document/8784755/)]
+
+- <a name='todo'></a> [2019 ICLR] Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation [[paper](https://openreview.net/forum?id=ryGvcoA5YX)]
+
+- <a name='todo'></a> [2019 ICLR] Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference [[paper](https://arxiv.org/abs/1810.11910)]
+
+- <a name='todo'></a> [2019 ICLR] Efficient Lifelong Learning with A-GEM [[paper](https://arxiv.org/abs/1812.00420)]
+
+- <a name='todo'></a> [2019 ICLR] A Comprehensive, Application-Oriented Study of Catastrophic Forgetting in DNNs [[paper](https://arxiv.org/abs/1905.08101)]
+
+- <a name='todo'></a> [2019 ICCV] Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild [[paper](https://arxiv.org/abs/1903.12648)]
+
+- <a name='todo'></a> [2019 ICCV] Lifelong GAN Continual Learning for Conditional Image Generation [[paper](https://ieeexplore.ieee.org/document/9009516)]
+
+- <a name='todo'></a> [2019 ICCV] Incremental Learning Using Conditional Adversarial Networks [[paper](https://ieeexplore.ieee.org/document/9009031/)]
+
+- <a name='todo'></a> [2019 ICCV] IL2M Class Incremental Learning With Dual Memory [[paper](https://ieeexplore.ieee.org/document/9009019)]
+
+- <a name='todo'></a> [2019 ICCV] Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation [[paper](https://arxiv.org/abs/1908.02984)]
+
+- <a name='todo'></a> [2019 ICCVW] Incremental Learning Techniques for Semantic Segmentation [[paper](https://ieeexplore.ieee.org/document/9022296/)]
+
+- <a name='todo'></a> [2019 EMNLP] A Progressive Model to Enable Continual Learning for Semantic Slot Filling [[paper](https://aclanthology.org/D19-1126/)]
+
+- <a name='todo'></a> [2019 CVPR] Task-Free Continual Learning [[paper](https://ieeexplore.ieee.org/document/8953745/)]
+
+- <a name='todo'></a> [2019 CVPR] Learning without Memorizing [[paper](https://arxiv.org/abs/1811.08051)]
+
+- <a name='todo'></a> [2019 CVPR] Learning to Remember A Synaptic Plasticity Driven Framework for Continual Learning [[paper](https://ieeexplore.ieee.org/document/8953627/)]
+
+- <a name='todo'></a> [2019 CVPR] Learning a Unified Classifier Incrementally via Rebalancing [[paper](https://ieeexplore.ieee.org/document/8953661)]
+
+- <a name='todo'></a> [2019 CVPR] Large Scale Incremental Learning [[paper](https://ieeexplore.ieee.org/document/8954008/)]
+
+- <a name='todo'></a> [2019 ACL] Psycholinguistics meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering [[paper](https://aclanthology.org/P19-1350/)]
+
+- <a name='todo'></a> [2019 ACL] Incremental Learning from Scratch for Task-Oriented Dialogue Systems [[paper](https://aclanthology.org/P19-1361/)]
+
+- <a name='todo'></a> [2019 AAAI] Scalable Recollections for Continual Lifelong Learning [[paper](https://arxiv.org/pdf/1711.06761)]
 
 ### 2018
 
+- <a name='todo'></a> [2018 NIPS] Reinforced Continual Learning [[paper](https://arxiv.org/abs/1805.12369)]
+
+- <a name='todo'></a> [2018 NIPS] Re-evaluating Continual Learning Scenarios A Categorization and Case for Strong Baselines [[paper](https://arxiv.org/abs/1810.12488)]
+
+- <a name='todo'></a> [2018 NIPS] Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting [[paper](https://arxiv.org/abs/1805.07810)]
+
+- <a name='todo'></a> [2018 NIPS] Memory Replay GANs learning to generate images from new categories without forgetting [[paper](https://arxiv.org/abs/1809.02058)]
+
+- <a name='todo'></a> [2018 NIPS] Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies [[paper](https://arxiv.org/abs/1808.06508)]
+
+- <a name='todo'></a> [2018 NIPSW] Three scenarios for continual learning [[paper](https://arxiv.org/abs/1904.07734)]
+
+- <a name='todo'></a> [2018 NIPSW] Re-evaluating Continual Learning Scenarios A Categorization and Case for Strong Baselines [[paper](https://arxiv.org/abs/1810.12488)]
+
+- <a name='todo'></a> [2018 ICPR] Rotate your Networks Better Weight Consolidation and Less Catastrophic Forgetting [[paper](https://arxiv.org/abs/1802.02950)]
+
+- <a name='todo'></a> [2018 ICML] Progress & Compress: A scalable framework for continual learning [[paper](https://arxiv.org/abs/1805.06370)]
+
+- <a name='todo'></a> [2018 ICML] Overcoming Catastrophic Forgetting with Hard Attention to the Task [[paper](https://arxiv.org/abs/1801.01423)]
+
+- <a name='todo'></a> [2018 ICML] Continual Reinforcement Learning with Complex Synapses [[paper](https://arxiv.org/abs/1802.07239)]
+
+- <a name='todo'></a> [2018 ICLR] Variational Continual Learning [[paper](https://arxiv.org/abs/1710.10628)]
+
+- <a name='todo'></a> [2018 ICLR] Lifelong Learning with Dynamically Expandable Networks [[paper](https://arxiv.org/abs/1708.01547)]
+
+- <a name='todo'></a> [2018 ICLR] FearNet: Brain-Inspired Model for Incremental Learning [[paper](https://arxiv.org/abs/1711.10563)]
+
+- <a name='todo'></a> [2018 ECCV] Riemannian Walk for Incremental Learning Understanding Forgetting and Intransigence [[paper](https://arxiv.org/abs/1801.10112)]
+
+- <a name='todo'></a> [2018 ECCV] Piggyback Adapting a Single Network to Multiple Tasks by Learning to Mask Weights [[paper](https://arxiv.org/abs/1801.06519)]
+
+- <a name='todo'></a> [2018 ECCV] Memory Aware Synapses Learning what (not) to forget [[paper](https://arxiv.org/abs/1711.09601)]
+
+- <a name='todo'></a> [2018 ECCV] Lifelong Learning via Progressive Distillation and Retrospection [[paper](https://doi.org/10.1007/978-3-030-01219-9:27)]
+
+- <a name='todo'></a> [2018 ECCV] End-to-End Incremental Learning [[paper](https://arxiv.org/abs/1807.09536)]
+
+- <a name='todo'></a> [2018 CVPR] PackNet Adding Multiple Tasks to a Single Network by Iterative Pruning [[paper](https://ieeexplore.ieee.org/document/8578908/)]
+
+- <a name='todo'></a> [2018 BMVC] Exemplar-Supported Generative Reproduction for Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9034001)]
+
+- <a name='todo'></a> [2018 AAAI] Selective Experience Replay for Lifelong Learning [[paper](https://arxiv.org/abs/1802.10269)]
+
 ### 2017
 
-### 2016
+- <a name='todo'></a> [2017 arXiv] PathNet Evolution Channels Gradient Descent in Super Neural Networks [[paper](https://arxiv.org/abs/1701.08734)]
+
+- <a name='todo'></a> [2017 arXiv] Continual Learning in Generative Adversarial Nets [[paper](https://arxiv.org/abs/1705.08395)]
+
+- <a name='todo'></a> [2017 PNAS] Overcoming catastrophic forgetting in neural networks [[paper](https://arxiv.org/abs/1612.00796)]
+
+- <a name='todo'></a> [2017 NIPS] Overcoming Catastrophic Forgetting by Incremental Moment Matching [[paper](https://arxiv.org/pdf/1703.08475.pdf)]
+
+- <a name='todo'></a> [2017 NIPS] Gradient Episodic Memory for Continual Learning [[paper](https://arxiv.org/abs/1706.08840)]
+
+- <a name='todo'></a> [2017 NIPS] Continual Learning with Deep Generative Replay [[paper](https://arxiv.org/abs/1705.08690)]
+
+- <a name='todo'></a> [2017 ICML] Continual Learning Through Synaptic Intelligence [[paper](https://arxiv.org/abs/1703.04200)]
+
+- <a name='todo'></a> [2017 ICCV] Incremental Learning of Object Detectors without Catastrophic Forgetting [[paper](https://arxiv.org/abs/1708.06977)]
+
+- <a name='todo'></a> [2017 ICCV] Encoder Based Lifelong Learning [[paper](https://ieeexplore.ieee.org/document/8237410/)]
+
+- <a name='todo'></a> [2017 CVPR] iCaRL Incremental Classifier and Representation Learning [[paper](https://arxiv.org/abs/1611.07725)]
+
+- <a name='todo'></a> [2017 CVPR] Expert Gate Lifelong Learning with a Network of Experts [[paper](https://arxiv.org/abs/1611.06194)]
+
+- <a name='todo'></a> [2017 CoRL] CORe50 a New Dataset and Benchmark for Continuous Object Recognition [[paper](https://arxiv.org/abs/1705.03550)]
+
+### 2016 and earlier
+
+- <a name='todo'></a> [2016] Progressive Neural Networks [[paper](https://arxiv.org/abs/1606.04671)]
+
+- <a name='todo'></a> [2016 ECCV] Learning without Forgetting [[paper](https://arxiv.org/abs/1606.09282)]
+
+- <a name='todo'></a> [2014 ICML] A PAC-Bayesian Bound for Lifelong Learning [[paper](https://arxiv.org/abs/1311.2838)]
+
 
