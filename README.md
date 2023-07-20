@@ -332,7 +332,6 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 - <a name='todo'></a> **[2021 CVPR]** Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning [[paper](https://ieeexplore.ieee.org/document/9578295/)]
 - <a name='todo'></a> **[2021 CVPR]** Adaptive Aggregation Networks for Class-Incremental Learning [[paper](https://arxiv.org/abs/2010.05063)]
 - <a name='todo'></a> **[2021 CVIU]** SID Incremental Learning for Anchor-Free Object Detection via Selective and Inter-Related Distillation [[paper](https://arxiv.org/abs/2012.15439)]
-
 - <a name='todo'></a> **[2021 CVIU]** Knowledge Distillation for Incremental Learning in Semantic Segmentation [[paper](https://arxiv.org/abs/1911.03462)]
 - <a name='todo'></a> **[2021 BMVC]** Self-Supervised Training Enhances Online Continual Learning [[paper](https://arxiv.org/abs/2103.14010)]
 - <a name='todo'></a> **[2021 AISTATS]** Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors  [[paper](https://arxiv.org/abs/2004.10098)]
