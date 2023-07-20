@@ -349,12 +349,11 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 - <a name='todo'></a> **[2021 AAAI]** Continual Learning by Using Information of Each Class Holistically [[paper](https://doi.org/10.1609/aaai.v35i9.16952)]
 - <a name='todo'></a> **[2021 AAAI]** Class-Incremental Instance Segmentation via Multi-Teacher Networks [[paper](https://doi.org/10.1609/aaai.v35i2.16238)]
 - <a name='todo'></a> **[2021 AAAI]** A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation [[paper](https://doi.org/10.1609/aaai.v35i7.16752)]
-- <a name='todo'></a> **[2020 WACV]** ScaIL Classifier Weights Scaling for Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9093562/)]
+
 
 ### 2020
-
+- <a name='todo'></a> **[2020 WACV]** ScaIL Classifier Weights Scaling for Class Incremental Learning [[paper](https://ieeexplore.ieee.org/document/9093562/)]
 - <a name='todo'></a> **[2020 WACV]** Class-incremental Learning via Deep Model Consolidation [[paper](https://arxiv.org/abs/1903.07864)]
-
 - <a name='todo'></a> **[2020 TPAMI]** RPSNet An Adaptive Random Path Selection Approach for Incremental Learning [[paper](https://arxiv.org/abs/1906.01120)]
 
 - <a name='todo'></a> **[2020 TPAMI]** Continual Learning Using Bayesian Neural Networks [[paper](https://arxiv.org/abs/1910.04112)]
