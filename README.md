@@ -551,3 +551,17 @@ This is the paper list of our paper ''A Comprehensive Survey of Continual Learni
 - <a name='todo'></a> **[2016 arXiv]** Progressive Neural Networks [[paper](https://arxiv.org/abs/1606.04671)]
 - <a name='todo'></a> **[2016 ECCV]** Learning without Forgetting [[paper](https://arxiv.org/abs/1606.09282)]
 - <a name='todo'></a> **[2014 ICML]** A PAC-Bayesian Bound for Lifelong Learning [[paper](https://arxiv.org/abs/1311.2838)]
+
+
+## Citation
+
+Please cite our paper if it is helpful to your work:
+
+```bibtex
+@article{wang2023comprehensive,
+  title={A comprehensive survey of continual learning: Theory, method and application},
+  author={Wang, Liyuan and Zhang, Xingxing and Su, Hang and Zhu, Jun},
+  journal={arXiv preprint arXiv:2302.00487},
+  year={2023}
+}
+```
