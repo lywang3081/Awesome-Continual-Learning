@@ -1,6 +1,6 @@
 # Awesome-Continual-Learning
 
-This is the paper list of our paper ''A Comprehensive Survey of Continual Learning: Theory, Method and Application''.
+This is the paper list of our paper ''A Comprehensive Survey of Continual Learning: Theory, Method and Application'' [[link](https://arxiv.org/abs/2302.00487)]. We will continually include useful resources in this repo.
 
 
 ## Survey
